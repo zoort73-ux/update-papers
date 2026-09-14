@@ -20,16 +20,6 @@
     "authors": "Park CH, Hong HJ, Kim HW, Park JT, Chang TI, Yoo TH, Park SK, Kim JS, Lee KB, Jeong JC, Oh KH, Anderson AH, Yang W, Cohen JB, Rahman M, Kang SW, Han SH"
   },
   {
-    "pmid": "42554151",
-    "title": "Preoperative ionized calcium levels and risk of acute kidney injury after cardiac surgery",
-    "journal": "Kardiol Pol",
-    "date": "2026-08",
-    "year": "2026",
-    "month": "08",
-    "doi": "10.33963/v.phj.113980",
-    "authors": "Lee JH, Kim HJ, Lee JH, Kim SJ, Moon SJ, Park JT, Koh HB"
-  },
-  {
     "pmid": "42640732",
     "title": "Plasma Levels of Growth Differentiation Factor 15 and Adverse Kidney Outcomes: Proteomics-Based Mediation Analysis and Mendelian Randomization",
     "journal": "Clin J Am Soc Nephrol",
@@ -58,6 +48,16 @@
     "month": "08",
     "doi": "10.1093/joneph/aajag150",
     "authors": "Kang E, Im DW, Kim M, Kim Y, Yoo TH, Kim SW, Kim J, Oh KH"
+  },
+  {
+    "pmid": "42554151",
+    "title": "Preoperative ionized calcium levels and risk of acute kidney injury after cardiac surgery",
+    "journal": "Kardiol Pol",
+    "date": "2026-08",
+    "year": "2026",
+    "month": "08",
+    "doi": "10.33963/v.phj.113980",
+    "authors": "Lee JH, Kim HJ, Lee JH, Kim SJ, Moon SJ, Park JT, Koh HB"
   },
   {
     "pmid": "42548248",
@@ -90,6 +90,16 @@
     "authors": "Kang DH, Yoo TH"
   },
   {
+    "pmid": "42464269",
+    "title": "Cancer risk in patients with nontuberculous mycobacterial pulmonary disease: a nationwide population-based cohort study",
+    "journal": "Respir Res",
+    "date": "2026-07",
+    "year": "2026",
+    "month": "07",
+    "doi": "10.1186/s12931-026-03811-2",
+    "authors": "Lee C, Choi HK, Lee HH, Kang YA, Kim EY, Kim HW, Shin N, Park Y"
+  },
+  {
     "pmid": "42464051",
     "title": "Clinical Outcomes for Newly Diagnosed Diabetes Patients in Korea: A National Health Insurance Data",
     "journal": "Diabetes Obes Metab",
@@ -100,14 +110,14 @@
     "authors": "Park S, Kim HJ, Kim HW, Park SH, Han SY"
   },
   {
-    "pmid": "42464269",
-    "title": "Cancer risk in patients with nontuberculous mycobacterial pulmonary disease: a nationwide population-based cohort study",
-    "journal": "Respir Res",
-    "date": "2026-07",
+    "pmid": "42529231",
+    "title": "Trajectories of Serum Total Carbon Dioxide and the Risk of Cardiorenal Outcomes in Chronic Kidney Disease: Results From the KNOW-CKD Study",
+    "journal": "Kidney Med",
+    "date": "2026-06",
     "year": "2026",
-    "month": "07",
-    "doi": "10.1186/s12931-026-03811-2",
-    "authors": "Lee C, Choi HK, Lee HH, Kang YA, Kim EY, Kim HW, Shin N, Park Y"
+    "month": "06",
+    "doi": "10.1016/j.xkme.2026.101425",
+    "authors": "Cho S, Chung W, Hyun YY, Jeong JC, Han SH, Park SK, Oh KH, Jung JY"
   },
   {
     "pmid": "42329699",
@@ -138,16 +148,6 @@
     "month": "06",
     "doi": "10.23876/j.krcp.25.218",
     "authors": "Kim JY, Yoon M, Kim JH, Kim KW, Lee CJ, Han SH, Yoo TH, Kang SM, Kang SW, Oh J, Park JT"
-  },
-  {
-    "pmid": "42529231",
-    "title": "Trajectories of Serum Total Carbon Dioxide and the Risk of Cardiorenal Outcomes in Chronic Kidney Disease: Results From the KNOW-CKD Study",
-    "journal": "Kidney Med",
-    "date": "2026-06",
-    "year": "2026",
-    "month": "06",
-    "doi": "10.1016/j.xkme.2026.101425",
-    "authors": "Cho S, Chung W, Hyun YY, Jeong JC, Han SH, Park SK, Oh KH, Jung JY"
   },
   {
     "pmid": "42237213",
@@ -200,24 +200,14 @@
     "authors": "Oh JI, Jeong K, Koh JH, Kwon JK, Cho S, Cho JM, Kim Y, Lee H, Kim HJ, Lee J, Lee JP, Park JI, Park JT, Kim K, Park S, Kim DK"
   },
   {
-    "pmid": "41178795",
-    "title": "Additive renoprotective effects of oral calcitriol on patients with IgA nephropathy receiving RAS blockers",
-    "journal": "Nephrol Dial Transplant",
+    "pmid": "41758511",
+    "title": "Erythropoiesis-Stimulating Agents and Development of Cancer Among Patients Receiving Dialysis",
+    "journal": "JAMA Netw Open",
     "date": "2026-02",
     "year": "2026",
     "month": "02",
-    "doi": "10.1093/ndt/gfaf187",
-    "authors": "Joo YS, Chang TI, Kim DK, Han SH, Kang SW, Yoo TH"
-  },
-  {
-    "pmid": "41719070",
-    "title": "Real-World Adoption of the 2021 KDIGO BP Guideline in CKD",
-    "journal": "J Am Soc Nephrol",
-    "date": "2026-02",
-    "year": "2026",
-    "month": "02",
-    "doi": "10.1681/ASN.0000001046",
-    "authors": "Lee HH, Cho SMJ, McCarthy CP, Yoo TH, Wadhera RK, Secemsky EA, Natarajan P"
+    "doi": "10.1001/jamanetworkopen.2026.0140",
+    "authors": "Kim JY, Lee JK, Chang TI, Kim HW"
   },
   {
     "pmid": "41747650",
@@ -230,14 +220,24 @@
     "authors": "Narasaki Y, Li Z, Ong M, Siu MKM, Han SH, Chang TI, Cervantes MK, You AS, Novoa A, Le L, Nguyen DV, Kalantar-Zadeh K, Rhee CM"
   },
   {
-    "pmid": "41758511",
-    "title": "Erythropoiesis-Stimulating Agents and Development of Cancer Among Patients Receiving Dialysis",
-    "journal": "JAMA Netw Open",
+    "pmid": "41719070",
+    "title": "Real-World Adoption of the 2021 KDIGO BP Guideline in CKD",
+    "journal": "J Am Soc Nephrol",
     "date": "2026-02",
     "year": "2026",
     "month": "02",
-    "doi": "10.1001/jamanetworkopen.2026.0140",
-    "authors": "Kim JY, Lee JK, Chang TI, Kim HW"
+    "doi": "10.1681/ASN.0000001046",
+    "authors": "Lee HH, Cho SMJ, McCarthy CP, Yoo TH, Wadhera RK, Secemsky EA, Natarajan P"
+  },
+  {
+    "pmid": "41178795",
+    "title": "Additive renoprotective effects of oral calcitriol on patients with IgA nephropathy receiving RAS blockers",
+    "journal": "Nephrol Dial Transplant",
+    "date": "2026-02",
+    "year": "2026",
+    "month": "02",
+    "doi": "10.1093/ndt/gfaf187",
+    "authors": "Joo YS, Chang TI, Kim DK, Han SH, Kang SW, Yoo TH"
   },
   {
     "pmid": "41612323",
@@ -340,6 +340,16 @@
     "authors": "Kang HY, Park SY, Kim G, Nam BY, Park JT, Kim DK, Han SH, Kang SW, Yoo TH"
   },
   {
+    "pmid": "41141511",
+    "title": "Reporting Quality of Randomized Controlled Trials in Antineutrophil Cytoplasmic Autoantibody-Associated Vasculitis",
+    "journal": "Kidney Int Rep",
+    "date": "2025-07",
+    "year": "2025",
+    "month": "07",
+    "doi": "10.1016/j.ekir.2025.07.012",
+    "authors": "Ivković V, Bruchfeld A, Floyd L, Oh SS, Park PG, Shin JI, Kronbichler A"
+  },
+  {
     "pmid": "40736786",
     "title": "Type 2 diabetes mellitus modifies the relationship between coronary artery calcification and adverse kidney outcome in patients with chronic kidney disease: the findings from KNOW-CKD",
     "journal": "J Nephrol",
@@ -370,16 +380,6 @@
     "authors": "Park J, Joo YS, Nam BY, Kim G, Park JT, Yoo TH, Kang SW, Han SH"
   },
   {
-    "pmid": "41141511",
-    "title": "Reporting Quality of Randomized Controlled Trials in Antineutrophil Cytoplasmic Autoantibody-Associated Vasculitis",
-    "journal": "Kidney Int Rep",
-    "date": "2025-07",
-    "year": "2025",
-    "month": "07",
-    "doi": "10.1016/j.ekir.2025.07.012",
-    "authors": "Ivković V, Bruchfeld A, Floyd L, Oh SS, Park PG, Shin JI, Kronbichler A"
-  },
-  {
     "pmid": "40663405",
     "title": "Genetic Risk for Hypertension Increases the Effect of Salt Intake on the Risk of Incident CKD",
     "journal": "Clin J Am Soc Nephrol",
@@ -390,16 +390,6 @@
     "authors": "Heo GY, Koh HB, Kim HW, Han SH, Yoo TH, Kang SW, Park JT"
   },
   {
-    "pmid": "40600868",
-    "title": "Plasma Levels of Fibroblast Growth Factor 21 and Adverse Kidney Outcomes",
-    "journal": "Mayo Clin Proc",
-    "date": "2025-07",
-    "year": "2025",
-    "month": "07",
-    "doi": "10.1016/j.mayocp.2024.10.026",
-    "authors": "Koh HB, Kim HJ, Kim HW, Chang TI, Park JT, Yoo TH, Kang SW, Han SH"
-  },
-  {
     "pmid": "40604100",
     "title": "Deep learning-based quantitative analysis of glomerular morphology in IgA nephropathy whole slide images and its prognostic implications",
     "journal": "Sci Rep",
@@ -408,6 +398,16 @@
     "month": "07",
     "doi": "10.1038/s41598-025-09031-w",
     "authors": "Cho SY, Kim Y, Park S, Paik JH, Chin HJ, Park JH, Lee JP, Kim YJ, Park SH, Lee HC, Cho H, Lim BJ, Kim HW, Han SH, Go H, Baek CH, Lee H, Moon KC, Kim YG"
+  },
+  {
+    "pmid": "40600868",
+    "title": "Plasma Levels of Fibroblast Growth Factor 21 and Adverse Kidney Outcomes",
+    "journal": "Mayo Clin Proc",
+    "date": "2025-07",
+    "year": "2025",
+    "month": "07",
+    "doi": "10.1016/j.mayocp.2024.10.026",
+    "authors": "Koh HB, Kim HJ, Kim HW, Chang TI, Park JT, Yoo TH, Kang SW, Han SH"
   },
   {
     "pmid": "40571333",
@@ -430,16 +430,6 @@
     "authors": "Park CH, Kim HW, Park JT, Chang TI, Yoo TH, Oh KH, Anderson AH, Yang W, Cohen JB, Rahman M, Kang SW, Han SH"
   },
   {
-    "pmid": "39547936",
-    "title": "Smoking cessation and atherosclerotic cardiovascular events and mortality in chronic kidney disease",
-    "journal": "Nephrol Dial Transplant",
-    "date": "2025-05",
-    "year": "2025",
-    "month": "05",
-    "doi": "10.1093/ndt/gfae268",
-    "authors": "Joo YS, Yun HR, Kim HW, Koh HB, Jung CY, Chang TI, Park JT, Park SK, Hyun YY, Kim YH, Sung S, Yoo TH, Oh KH, Kang SW, Han SH"
-  },
-  {
     "pmid": "40469382",
     "title": "Childhood trauma is associated with perceived stress and hair cortisol levels characterized by the BDNF Val66Met genotype and sex",
     "journal": "Front Psychiatry",
@@ -450,14 +440,14 @@
     "authors": "Li Z, Koo SJ, Park HY, Min JE, Park JT, Lee E, An SK"
   },
   {
-    "pmid": "39392785",
-    "title": "Association between colchicine use and adverse cardiovascular events in patients with gout: a nationwide nested case-control study",
-    "journal": "Rheumatology (Oxford)",
+    "pmid": "39547936",
+    "title": "Smoking cessation and atherosclerotic cardiovascular events and mortality in chronic kidney disease",
+    "journal": "Nephrol Dial Transplant",
     "date": "2025-05",
     "year": "2025",
     "month": "05",
-    "doi": "10.1093/rheumatology/keae545",
-    "authors": "Kim HW, Kang M, Lim H, Park CH, Kim JY, Chang TI, Han SH"
+    "doi": "10.1093/ndt/gfae268",
+    "authors": "Joo YS, Yun HR, Kim HW, Koh HB, Jung CY, Chang TI, Park JT, Park SK, Hyun YY, Kim YH, Sung S, Yoo TH, Oh KH, Kang SW, Han SH"
   },
   {
     "pmid": "39531317",
@@ -468,6 +458,16 @@
     "month": "05",
     "doi": "10.1093/rheumatology/keae626",
     "authors": "Kim HW, Chang TI, Han SH"
+  },
+  {
+    "pmid": "39392785",
+    "title": "Association between colchicine use and adverse cardiovascular events in patients with gout: a nationwide nested case-control study",
+    "journal": "Rheumatology (Oxford)",
+    "date": "2025-05",
+    "year": "2025",
+    "month": "05",
+    "doi": "10.1093/rheumatology/keae545",
+    "authors": "Kim HW, Kang M, Lim H, Park CH, Kim JY, Chang TI, Han SH"
   },
   {
     "pmid": "40304018",
@@ -570,6 +570,16 @@
     "authors": "Park CH, Ko YE, Heo GY, Kim BY, Oh SJ, Han SY, Park JT, Han SH, Yoo TH, Kang SW, Kim HW"
   },
   {
+    "pmid": "40034486",
+    "title": "Kidney function and bone mineral density in chronic kidney disease patients",
+    "journal": "Clin Kidney J",
+    "date": "2024-08",
+    "year": "2024",
+    "month": "08",
+    "doi": "10.1093/ckj/sfae248",
+    "authors": "Kang DH, Park CH, Kim HW, Park JT, Han SH, Kim J, Jeong JC, Kim Y, Kim SW, Oh KH, Kang SW, Yoo TH"
+  },
+  {
     "pmid": "39174619",
     "title": "Author Correction: Volume control strategy and patient survival in sepsis-associated acute kidney injury receiving continuous renal replacement therapy: a randomized controlled trial with secondary analysis",
     "journal": "Sci Rep",
@@ -588,16 +598,6 @@
     "month": "08",
     "doi": "10.1016/j.ajcnut.2024.08.009",
     "authors": "Koh HB, Kim HJ, Heo GY, Kim HW, Jung CY, Han SH, Yoo TH, Kang SW, Park JT"
-  },
-  {
-    "pmid": "40034486",
-    "title": "Kidney function and bone mineral density in chronic kidney disease patients",
-    "journal": "Clin Kidney J",
-    "date": "2024-08",
-    "year": "2024",
-    "month": "08",
-    "doi": "10.1093/ckj/sfae248",
-    "authors": "Kang DH, Park CH, Kim HW, Park JT, Han SH, Kim J, Jeong JC, Kim Y, Kim SW, Oh KH, Kang SW, Yoo TH"
   },
   {
     "pmid": "39115506",
@@ -670,16 +670,6 @@
     "authors": "Park J, Nam KH, Nam BY, Kim G, Kim H, Lee KU, Song SC, Nam TW, Kim WK, Park JT, Yoo TH, Kang SW, Ko G, Han SH"
   },
   {
-    "pmid": "37935519",
-    "title": "Insomnia in patients on incident maintenance dialysis and the risk of major acute cardio-cerebrovascular events and all-cause mortality",
-    "journal": "Nephrol Dial Transplant",
-    "date": "2024-04",
-    "year": "2024",
-    "month": "04",
-    "doi": "10.1093/ndt/gfad231",
-    "authors": "Kim HW, Heo GY, Kim HJ, Kang SW, Park JT, Lee E"
-  },
-  {
     "pmid": "38692977",
     "title": "Association between progression of coronary artery calcification and development of kidney failure with replacement therapy: Findings from KNOW-CKD study",
     "journal": "Atherosclerosis",
@@ -700,6 +690,16 @@
     "authors": "Li Z, Kong W, Park HY, Koo SJ, Bang M, Park JT, Lee E, An SK"
   },
   {
+    "pmid": "37935519",
+    "title": "Insomnia in patients on incident maintenance dialysis and the risk of major acute cardio-cerebrovascular events and all-cause mortality",
+    "journal": "Nephrol Dial Transplant",
+    "date": "2024-04",
+    "year": "2024",
+    "month": "04",
+    "doi": "10.1093/ndt/gfad231",
+    "authors": "Kim HW, Heo GY, Kim HJ, Kang SW, Park JT, Lee E"
+  },
+  {
     "pmid": "37436715",
     "title": "Presence of periodontal disease and the incidence of inflammatory arthritides in the general population: data from the UK Biobank",
     "journal": "Rheumatology (Oxford)",
@@ -710,16 +710,6 @@
     "authors": "Yun HR, Koh HB, Park JT, Han SH, Kang SW, Yoo TH, Ahn SS"
   },
   {
-    "pmid": "38600028",
-    "title": "Glomerulonephritis following COVID-19 infection or vaccination: a multicenter study in South Korea",
-    "journal": "Kidney Res Clin Pract",
-    "date": "2024-03",
-    "year": "2024",
-    "month": "03",
-    "doi": "10.23876/j.krcp.23.219",
-    "authors": "Kim HW, Kim EH, Roh YH, Joo YS, Eom M, Kim HS, Kang MS, Jeong H, Lim BJ, Han SH, Jung M"
-  },
-  {
     "pmid": "38738273",
     "title": "Triglyceride-glucose index is an independent predictor of coronary artery calcification progression in patients with chronic kidney disease",
     "journal": "Kidney Res Clin Pract",
@@ -728,6 +718,16 @@
     "month": "03",
     "doi": "10.23876/j.krcp.23.264",
     "authors": "Ko YE, Kim HW, Park JT, Han SH, Kang SW, Sung S, Lee KB, Lee J, Oh KH, Yoo TH"
+  },
+  {
+    "pmid": "38600028",
+    "title": "Glomerulonephritis following COVID-19 infection or vaccination: a multicenter study in South Korea",
+    "journal": "Kidney Res Clin Pract",
+    "date": "2024-03",
+    "year": "2024",
+    "month": "03",
+    "doi": "10.23876/j.krcp.23.219",
+    "authors": "Kim HW, Kim EH, Roh YH, Joo YS, Eom M, Kim HS, Kang MS, Jeong H, Lim BJ, Han SH, Jung M"
   },
   {
     "pmid": "38447817",
@@ -750,14 +750,14 @@
     "authors": "Kim HW, Han M, Jung I, Ahn SS"
   },
   {
-    "pmid": "37723608",
-    "title": "Proteinuria, measured or estimated albuminuria for risk prediction in patients with chronic kidney disease?",
-    "journal": "Nephrol Dial Transplant",
+    "pmid": "38435351",
+    "title": "Risk of incident chronic kidney disease among patients with urolithiasis: a nationwide longitudinal cohort study",
+    "journal": "Clin Kidney J",
     "date": "2024-02",
     "year": "2024",
     "month": "02",
-    "doi": "10.1093/ndt/gfad195",
-    "authors": "Kim H, Hyun YY, Joo YS, Yun HR, Kim Y, Jung JY, Jeong JC, Kim J, Park JT, Yoo TH, Kang SW, Oh KH, Han SH"
+    "doi": "10.1093/ckj/sfae030",
+    "authors": "Kim JY, Lee JK, Park JT, Chang TI"
   },
   {
     "pmid": "38423161",
@@ -770,14 +770,14 @@
     "authors": "Koh HB, Kim HW, Joo YS, Jung CY, Kim HJ, Chang TI, Park JT, Yoo TH, Kang SW, Han SH"
   },
   {
-    "pmid": "38435351",
-    "title": "Risk of incident chronic kidney disease among patients with urolithiasis: a nationwide longitudinal cohort study",
-    "journal": "Clin Kidney J",
+    "pmid": "38416492",
+    "title": "Sweetened Beverage Intake and Incident Chronic Kidney Disease in the UK Biobank Study",
+    "journal": "JAMA Netw Open",
     "date": "2024-02",
     "year": "2024",
     "month": "02",
-    "doi": "10.1093/ckj/sfae030",
-    "authors": "Kim JY, Lee JK, Park JT, Chang TI"
+    "doi": "10.1001/jamanetworkopen.2023.56885",
+    "authors": "Heo GY, Koh HB, Park JT, Han SH, Yoo TH, Kang SW, Kim HW"
   },
   {
     "pmid": "38398372",
@@ -790,6 +790,16 @@
     "authors": "Lee JH, Yun HR, Kim HW, Park JT, Han SH, Kim YL, Kim YS, Yang CW, Kim NH, Kang SW, Yoo TH"
   },
   {
+    "pmid": "38367259",
+    "title": "Donor fat-to-muscle ratio and kidney transplant outcomes: A proposition of metabolic memory",
+    "journal": "Diabetes Metab Res Rev",
+    "date": "2024-02",
+    "year": "2024",
+    "month": "02",
+    "doi": "10.1002/dmrr.3781",
+    "authors": "Kee YK, Lee J, Nam BY, Joo YS, Kang SW, Huh KH, Park JT"
+  },
+  {
     "pmid": "38346560",
     "title": "Higher potassium intake is associated with a lower risk of chronic kidney disease: population-based prospective study",
     "journal": "Am J Clin Nutr",
@@ -798,16 +808,6 @@
     "month": "02",
     "doi": "10.1016/j.ajcnut.2024.02.004",
     "authors": "Kim HJ, Koh HB, Heo GY, Kim HW, Park JT, Chang TI, Yoo TH, Kang SW, Kalantar-Zadeh K, Rhee C, Han SH"
-  },
-  {
-    "pmid": "38416492",
-    "title": "Sweetened Beverage Intake and Incident Chronic Kidney Disease in the UK Biobank Study",
-    "journal": "JAMA Netw Open",
-    "date": "2024-02",
-    "year": "2024",
-    "month": "02",
-    "doi": "10.1001/jamanetworkopen.2023.56885",
-    "authors": "Heo GY, Koh HB, Park JT, Han SH, Yoo TH, Kang SW, Kim HW"
   },
   {
     "pmid": "38297162",
@@ -820,14 +820,14 @@
     "authors": "Shim DW, Eo JC, Kim S, Hwang I, Nam B, Shin JE, Han SH, Yu JW"
   },
   {
-    "pmid": "38367259",
-    "title": "Donor fat-to-muscle ratio and kidney transplant outcomes: A proposition of metabolic memory",
-    "journal": "Diabetes Metab Res Rev",
+    "pmid": "37723608",
+    "title": "Proteinuria, measured or estimated albuminuria for risk prediction in patients with chronic kidney disease?",
+    "journal": "Nephrol Dial Transplant",
     "date": "2024-02",
     "year": "2024",
     "month": "02",
-    "doi": "10.1002/dmrr.3781",
-    "authors": "Kee YK, Lee J, Nam BY, Joo YS, Kang SW, Huh KH, Park JT"
+    "doi": "10.1093/ndt/gfad195",
+    "authors": "Kim H, Hyun YY, Joo YS, Yun HR, Kim Y, Jung JY, Jeong JC, Kim J, Park JT, Yoo TH, Kang SW, Oh KH, Han SH"
   },
   {
     "pmid": "38171411",
@@ -930,16 +930,6 @@
     "authors": "Koh HB, Kim HJ, Kang SW, Yoo TH"
   },
   {
-    "pmid": "37517545",
-    "title": "Association of Plant Protein Intake With Risk of Incident CKD: A UK Biobank Study",
-    "journal": "Am J Kidney Dis",
-    "date": "2023-07",
-    "year": "2023",
-    "month": "07",
-    "doi": "10.1053/j.ajkd.2023.05.007",
-    "authors": "Heo GY, Koh HB, Kim HJ, Kim KW, Jung CY, Kim HW, Chang TI, Park JT, Yoo TH, Kang SW, Han SH"
-  },
-  {
     "pmid": "37551129",
     "title": "Correction to \"Association between urinary chloride excretion and progression of coronary artery calcification in patients with non-dialysis chronic kidney disease: results from KNOW-CKD study\"",
     "journal": "Kidney Res Clin Pract",
@@ -948,6 +938,16 @@
     "month": "07",
     "doi": "10.23876/j.krcp.22.072.e1",
     "authors": "Suh SH, Oh TR, Choi HS, Kim CS, Bae EH, Ma SK, Oh KH, Yoo TH, Chae DW, Kim SW"
+  },
+  {
+    "pmid": "37517545",
+    "title": "Association of Plant Protein Intake With Risk of Incident CKD: A UK Biobank Study",
+    "journal": "Am J Kidney Dis",
+    "date": "2023-07",
+    "year": "2023",
+    "month": "07",
+    "doi": "10.1053/j.ajkd.2023.05.007",
+    "authors": "Heo GY, Koh HB, Kim HJ, Kim KW, Jung CY, Kim HW, Chang TI, Park JT, Yoo TH, Kang SW, Han SH"
   },
   {
     "pmid": "37452154",
@@ -960,16 +960,6 @@
     "authors": "Park CH, Jhee JH, Chun KH, Seo J, Lee CJ, Park SH, Hwang JT, Han SH, Kang SW, Park S, Yoo TH"
   },
   {
-    "pmid": "37330576",
-    "title": "Non-invasive chronic kidney disease risk stratification tool derived from retina-based deep learning and clinical factors",
-    "journal": "NPJ Digit Med",
-    "date": "2023-06",
-    "year": "2023",
-    "month": "06",
-    "doi": "10.1038/s41746-023-00860-5",
-    "authors": "Joo YS, Rim TH, Koh HB, Yi J, Kim H, Lee G, Kim YA, Kang SW, Kim SS, Park JT"
-  },
-  {
     "pmid": "37388283",
     "title": "Corrigendum: Mineral bone disorder in children with chronic kidney disease: data from the KNOW-Ped CKD (Korean cohort study for outcome in patients with pediatric chronic kidney disease) study",
     "journal": "Front Pediatr",
@@ -978,6 +968,16 @@
     "month": "06",
     "doi": "10.3389/fped.2023.1221302",
     "authors": "Jung J, Lee KH, Park E, Park YS, Kang HG, Ahn YH, Ha IS, Kim SH, Cho H, Han KH, Cho MH, Choi HJ, Lee JH, Shin JI"
+  },
+  {
+    "pmid": "37330576",
+    "title": "Non-invasive chronic kidney disease risk stratification tool derived from retina-based deep learning and clinical factors",
+    "journal": "NPJ Digit Med",
+    "date": "2023-06",
+    "year": "2023",
+    "month": "06",
+    "doi": "10.1038/s41746-023-00860-5",
+    "authors": "Joo YS, Rim TH, Koh HB, Yi J, Kim H, Lee G, Kim YA, Kang SW, Kim SS, Park JT"
   },
   {
     "pmid": "37261287",
@@ -1030,14 +1030,14 @@
     "authors": "Kim HJ, Jung M, Lim BJ, Cheong JW, Han SH"
   },
   {
-    "pmid": "36991140",
-    "title": "Association between familial aggregation of chronic kidney disease and its incidence and progression",
-    "journal": "Sci Rep",
+    "pmid": "37098677",
+    "title": "Predictive performance of the new race-free Chronic Kidney Disease Epidemiology Collaboration equations for kidney outcome in Korean patients with chronic kidney disease",
+    "journal": "Kidney Res Clin Pract",
     "date": "2023-03",
     "year": "2023",
     "month": "03",
-    "doi": "10.1038/s41598-023-32362-5",
-    "authors": "Kim JY, Chun SY, Lim H, Chang TI"
+    "doi": "10.23876/j.krcp.22.158",
+    "authors": "Kim H, Hyun YY, Yun HR, Joo YS, Kim Y, Jung JY, Jeong JC, Kim J, Park JT, Yoo TH, Kang SW, Oh KH, Han SH"
   },
   {
     "pmid": "37075134",
@@ -1060,14 +1060,14 @@
     "authors": "Ahn SS, Han M, Jung I, Kim HW"
   },
   {
-    "pmid": "37098677",
-    "title": "Predictive performance of the new race-free Chronic Kidney Disease Epidemiology Collaboration equations for kidney outcome in Korean patients with chronic kidney disease",
-    "journal": "Kidney Res Clin Pract",
+    "pmid": "36991140",
+    "title": "Association between familial aggregation of chronic kidney disease and its incidence and progression",
+    "journal": "Sci Rep",
     "date": "2023-03",
     "year": "2023",
     "month": "03",
-    "doi": "10.23876/j.krcp.22.158",
-    "authors": "Kim H, Hyun YY, Yun HR, Joo YS, Kim Y, Jung JY, Jeong JC, Kim J, Park JT, Yoo TH, Kang SW, Oh KH, Han SH"
+    "doi": "10.1038/s41598-023-32362-5",
+    "authors": "Kim JY, Chun SY, Lim H, Chang TI"
   },
   {
     "pmid": "36908202",
@@ -1078,26 +1078,6 @@
     "month": "03",
     "doi": "10.23876/j.krcp.22.072",
     "authors": "Suh SH, Oh TR, Choi HS, Kim CS, Bae EH, Ma SK, Oh KH, Yoo TH, Chae DW, Kim SW"
-  },
-  {
-    "pmid": "35689669",
-    "title": "Association of coronary artery calcium with adverse cardiovascular outcomes and death in patients with chronic kidney disease: results from the KNOW-CKD",
-    "journal": "Nephrol Dial Transplant",
-    "date": "2023-02",
-    "year": "2023",
-    "month": "02",
-    "doi": "10.1093/ndt/gfac194",
-    "authors": "Jung CY, Yun HR, Park JT, Joo YS, Kim HW, Yoo TH, Kang SW, Lee J, Chae DW, Chung W, Kim YS, Oh KH, Han SH"
-  },
-  {
-    "pmid": "36849581",
-    "title": "Systolic blood pressure, low-density lipoprotein cholesterol levels, and adverse kidney outcome: results from KNOW-CKD",
-    "journal": "Hypertens Res",
-    "date": "2023-02",
-    "year": "2023",
-    "month": "02",
-    "doi": "10.1038/s41440-023-01230-0",
-    "authors": "Kim KW, Koh HB, Kim HW, Park JT, Yoo TH, Kang SW, Oh KH, Hyun YY, Jung JY, Sung SA, Kim J, Han SH"
   },
   {
     "pmid": "37180512",
@@ -1120,6 +1100,16 @@
     "authors": "Jung J, Lee KH, Park E, Park YS, Kang HG, Ahn YH, Ha IS, Kim SH, Cho H, Han KH, Cho MH, Choi HJ, Lee JH, Shin JI"
   },
   {
+    "pmid": "36849581",
+    "title": "Systolic blood pressure, low-density lipoprotein cholesterol levels, and adverse kidney outcome: results from KNOW-CKD",
+    "journal": "Hypertens Res",
+    "date": "2023-02",
+    "year": "2023",
+    "month": "02",
+    "doi": "10.1038/s41440-023-01230-0",
+    "authors": "Kim KW, Koh HB, Kim HW, Park JT, Yoo TH, Kang SW, Oh KH, Hyun YY, Jung JY, Sung SA, Kim J, Han SH"
+  },
+  {
     "pmid": "36737115",
     "title": "Association Between Proton Pump Inhibitor Exposure and Acute Kidney Injury After Cardiac Surgery",
     "journal": "Mayo Clin Proc",
@@ -1128,6 +1118,16 @@
     "month": "02",
     "doi": "10.1016/j.mayocp.2022.07.024",
     "authors": "Koh HB, Joo YS, Kim HW, Jo W, Chan Kang S, Jhee JH, Han M, Lee M, Han SH, Yoo TH, Kang SW, Park JT"
+  },
+  {
+    "pmid": "35689669",
+    "title": "Association of coronary artery calcium with adverse cardiovascular outcomes and death in patients with chronic kidney disease: results from the KNOW-CKD",
+    "journal": "Nephrol Dial Transplant",
+    "date": "2023-02",
+    "year": "2023",
+    "month": "02",
+    "doi": "10.1093/ndt/gfac194",
+    "authors": "Jung CY, Yun HR, Park JT, Joo YS, Kim HW, Yoo TH, Kang SW, Lee J, Chae DW, Chung W, Kim YS, Oh KH, Han SH"
   },
   {
     "pmid": "37997724",
@@ -1180,16 +1180,6 @@
     "authors": "Park CH, Yoo TH"
   },
   {
-    "pmid": "36434262",
-    "title": "Risk improvement and adverse kidney outcomes in patients with chronic kidney disease: findings from KNOW-CKD",
-    "journal": "J Nephrol",
-    "date": "2022-11",
-    "year": "2022",
-    "month": "11",
-    "doi": "10.1007/s40620-022-01502-x",
-    "authors": "Koh HB, Kim HW, Jung CY, Lee Y, Park JT, Yoo TH, Kang SW, Lee J, Kim YH, Chae DW, Chung WK, Oh KH, Han SH"
-  },
-  {
     "pmid": "36505239",
     "title": "Serum triglycerides level is independently associated with renal outcomes in patients with non-dialysis chronic kidney disease: Results from KNOW-CKD study",
     "journal": "Front Nutr",
@@ -1198,6 +1188,16 @@
     "month": "11",
     "doi": "10.3389/fnut.2022.1037618",
     "authors": "Suh SH, Oh TR, Choi HS, Kim CS, Bae EH, Oh KH, Han SH, Ma SK, Kim SW"
+  },
+  {
+    "pmid": "36434262",
+    "title": "Risk improvement and adverse kidney outcomes in patients with chronic kidney disease: findings from KNOW-CKD",
+    "journal": "J Nephrol",
+    "date": "2022-11",
+    "year": "2022",
+    "month": "11",
+    "doi": "10.1007/s40620-022-01502-x",
+    "authors": "Koh HB, Kim HW, Jung CY, Lee Y, Park JT, Yoo TH, Kang SW, Lee J, Kim YH, Chae DW, Chung WK, Oh KH, Han SH"
   },
   {
     "pmid": "36336512",
@@ -1260,14 +1260,14 @@
     "authors": "Lee S, Park JT, Bang M, An SK, Namkoong K, Park HY, Lee E"
   },
   {
-    "pmid": "36059191",
-    "title": "Lactobacillus acidophilus KBL409 Reduces Kidney Fibrosis via Immune Modulatory Effects in Mice with Chronic Kidney Disease",
-    "journal": "Mol Nutr Food Res",
+    "pmid": "36168418",
+    "title": "Inhibition of lysyl oxidase‑like 2 ameliorates folic acid‑induced renal tubulointerstitial fibrosis",
+    "journal": "Exp Ther Med",
     "date": "2022-09",
     "year": "2022",
     "month": "09",
-    "doi": "10.1002/mnfr.202101105",
-    "authors": "Kim H, Nam BY, Park J, Song S, Kim WK, Lee K, Nam TW, Park JT, Yoo TH, Kang SW, Ko G, Han SH"
+    "doi": "10.3892/etm.2022.11585",
+    "authors": "Choi SE, Jeon N, Choi HY, Jeong HJ, Lim BJ"
   },
   {
     "pmid": "36145167",
@@ -1280,14 +1280,14 @@
     "authors": "Suh SH, Oh TR, Choi HS, Kim CS, Bae EH, Ma SK, Oh KH, Han SH, Kim SW"
   },
   {
-    "pmid": "36168418",
-    "title": "Inhibition of lysyl oxidase‑like 2 ameliorates folic acid‑induced renal tubulointerstitial fibrosis",
-    "journal": "Exp Ther Med",
+    "pmid": "36059191",
+    "title": "Lactobacillus acidophilus KBL409 Reduces Kidney Fibrosis via Immune Modulatory Effects in Mice with Chronic Kidney Disease",
+    "journal": "Mol Nutr Food Res",
     "date": "2022-09",
     "year": "2022",
     "month": "09",
-    "doi": "10.3892/etm.2022.11585",
-    "authors": "Choi SE, Jeon N, Choi HY, Jeong HJ, Lim BJ"
+    "doi": "10.1002/mnfr.202101105",
+    "authors": "Kim H, Nam BY, Park J, Song S, Kim WK, Lee K, Nam TW, Park JT, Yoo TH, Kang SW, Ko G, Han SH"
   },
   {
     "pmid": "34473286",
@@ -1340,16 +1340,6 @@
     "authors": "Kim HW, Jhee JH, Joo YS, Yang KH, Jung JJ, Shin JH, Han SH, Yoo TH, Kang SW, Park JT"
   },
   {
-    "pmid": "35654602",
-    "title": "Coronary Artery Calcification Score and the Progression of Chronic Kidney Disease",
-    "journal": "J Am Soc Nephrol",
-    "date": "2022-06",
-    "year": "2022",
-    "month": "06",
-    "doi": "10.1681/ASN.2022010080",
-    "authors": "Yun HR, Joo YS, Kim HW, Park JT, Chang TI, Son NH, Yoo TH, Kang SW, Sung S, Lee KB, Lee J, Oh KH, Han SH"
-  },
-  {
     "pmid": "35660527",
     "title": "Exercise reduces the risk of chronic kidney disease in individuals with nonalcoholic fatty liver disease: A nationwide cohort study",
     "journal": "Diabetes Metab",
@@ -1358,6 +1348,16 @@
     "month": "06",
     "doi": "10.1016/j.diabet.2022.101362",
     "authors": "Jung CY, Chun HS, Lee M, Koh HB, Park KH, Joo YS, Kim HW, Ahn SH, Park JT, Kim SU"
+  },
+  {
+    "pmid": "35654602",
+    "title": "Coronary Artery Calcification Score and the Progression of Chronic Kidney Disease",
+    "journal": "J Am Soc Nephrol",
+    "date": "2022-06",
+    "year": "2022",
+    "month": "06",
+    "doi": "10.1681/ASN.2022010080",
+    "authors": "Yun HR, Joo YS, Kim HW, Park JT, Chang TI, Son NH, Yoo TH, Kang SW, Sung S, Lee KB, Lee J, Oh KH, Han SH"
   },
   {
     "pmid": "35707463",
@@ -1420,16 +1420,6 @@
     "authors": "Lee S, Kang M, Byeon K, Lee SE, Lee IH, Kim YA, Kang SW, Park JT"
   },
   {
-    "pmid": "35346856",
-    "title": "Metabolic dysfunction-associated fatty liver disease and risk of incident chronic kidney disease: A nationwide cohort study",
-    "journal": "Diabetes Metab",
-    "date": "2022-03",
-    "year": "2022",
-    "month": "03",
-    "doi": "10.1016/j.diabet.2022.101344",
-    "authors": "Jung CY, Koh HB, Park KH, Joo YS, Kim HW, Ahn SH, Park JT, Kim SU"
-  },
-  {
     "pmid": "35402554",
     "title": "Association of Left Ventricular Diastolic Dysfunction With Cardiovascular Outcomes in Patients With Pre-dialysis Chronic Kidney Disease: Findings From KNOW-CKD Study",
     "journal": "Front Cardiovasc Med",
@@ -1448,6 +1438,36 @@
     "month": "03",
     "doi": "10.4093/dmj.2021.0329",
     "authors": "Jung CY, Yoo TH"
+  },
+  {
+    "pmid": "35346856",
+    "title": "Metabolic dysfunction-associated fatty liver disease and risk of incident chronic kidney disease: A nationwide cohort study",
+    "journal": "Diabetes Metab",
+    "date": "2022-03",
+    "year": "2022",
+    "month": "03",
+    "doi": "10.1016/j.diabet.2022.101344",
+    "authors": "Jung CY, Koh HB, Park KH, Joo YS, Kim HW, Ahn SH, Park JT, Kim SU"
+  },
+  {
+    "pmid": "35162341",
+    "title": "The Association between Health-Enhancing Physical Activity and Quality of Life in Patients with Chronic Kidney Disease: Propensity Score Matching Analysis",
+    "journal": "Int J Environ Res Public Health",
+    "date": "2022-01",
+    "year": "2022",
+    "month": "01",
+    "doi": "10.3390/ijerph19031318",
+    "authors": "Oh TR, Choi HS, Suh SH, Kim CS, Bae EH, Sung S, Han SH, Oh KH, Ma SK, Kim SW"
+  },
+  {
+    "pmid": "35155608",
+    "title": "Association of Body Weight Variability With Progression of Coronary Artery Calcification in Patients With Predialysis Chronic Kidney Disease",
+    "journal": "Front Cardiovasc Med",
+    "date": "2022-01",
+    "year": "2022",
+    "month": "01",
+    "doi": "10.3389/fcvm.2021.794957",
+    "authors": "Suh SH, Oh TR, Choi HS, Kim CS, Bae EH, Oh KH, Lee KB, Han SH, Sung S, Ma SK, Kim SW"
   },
   {
     "pmid": "35108572",
@@ -1470,24 +1490,14 @@
     "authors": "Kim JH, Kim JY, Kim HW, Han SH, Yoo TH, Kang SW, Park JT"
   },
   {
-    "pmid": "35155608",
-    "title": "Association of Body Weight Variability With Progression of Coronary Artery Calcification in Patients With Predialysis Chronic Kidney Disease",
-    "journal": "Front Cardiovasc Med",
+    "pmid": "35013155",
+    "title": "PGC-1α inhibits the NLRP3 inflammasome via preserving mitochondrial viability to protect kidney fibrosis",
+    "journal": "Cell Death Dis",
     "date": "2022-01",
     "year": "2022",
     "month": "01",
-    "doi": "10.3389/fcvm.2021.794957",
-    "authors": "Suh SH, Oh TR, Choi HS, Kim CS, Bae EH, Oh KH, Lee KB, Han SH, Sung S, Ma SK, Kim SW"
-  },
-  {
-    "pmid": "35162341",
-    "title": "The Association between Health-Enhancing Physical Activity and Quality of Life in Patients with Chronic Kidney Disease: Propensity Score Matching Analysis",
-    "journal": "Int J Environ Res Public Health",
-    "date": "2022-01",
-    "year": "2022",
-    "month": "01",
-    "doi": "10.3390/ijerph19031318",
-    "authors": "Oh TR, Choi HS, Suh SH, Kim CS, Bae EH, Sung S, Han SH, Oh KH, Ma SK, Kim SW"
+    "doi": "10.1038/s41419-021-04480-3",
+    "authors": "Nam BY, Jhee JH, Park J, Kim S, Kim G, Park JT, Yoo TH, Kang SW, Yu JW, Han SH"
   },
   {
     "pmid": "35013111",
@@ -1500,16 +1510,6 @@
     "authors": "Park CH, Lee B, Han M, Rhee WJ, Kwak MS, Yoo TH, Shin JS"
   },
   {
-    "pmid": "35013155",
-    "title": "PGC-1α inhibits the NLRP3 inflammasome via preserving mitochondrial viability to protect kidney fibrosis",
-    "journal": "Cell Death Dis",
-    "date": "2022-01",
-    "year": "2022",
-    "month": "01",
-    "doi": "10.1038/s41419-021-04480-3",
-    "authors": "Nam BY, Jhee JH, Park J, Kim S, Kim G, Park JT, Yoo TH, Kang SW, Yu JW, Han SH"
-  },
-  {
     "pmid": "34903318",
     "title": "Therapeutic application of extracellular vesicles for various kidney diseases: a brief review",
     "journal": "BMB Rep",
@@ -1518,6 +1518,16 @@
     "month": "01",
     "doi": "10.5483/BMBRep.2022.55.1.141",
     "authors": "Lee SA, Yoo TH"
+  },
+  {
+    "pmid": "35011919",
+    "title": "Association of Circulating Osteoprotegerin Level with Blood Pressure Variability in Patients with Chronic Kidney Disease",
+    "journal": "J Clin Med",
+    "date": "2021-12",
+    "year": "2021",
+    "month": "12",
+    "doi": "10.3390/jcm11010178",
+    "authors": "Suh SH, Oh TR, Choi HS, Kim CS, Oh KH, Lee J, Oh YK, Jung JY, Choi KH, Ma SK, Bae EH, Kim SW, On Behalf Of The Korean Cohort Study For Outcomes In Patients With Chronic Kidney Disease Know-Ckd Investigators "
   },
   {
     "pmid": "34974651",
@@ -1540,14 +1550,14 @@
     "authors": "Oh TR, Myeong C, Song SH, Choi HS, Suh SH, Kim CS, Bae EH, Chung W, Choi KH, Oh KH, Ma SK, Kim SW"
   },
   {
-    "pmid": "35011919",
-    "title": "Association of Circulating Osteoprotegerin Level with Blood Pressure Variability in Patients with Chronic Kidney Disease",
-    "journal": "J Clin Med",
+    "pmid": "34959995",
+    "title": "Association of Urinary Potassium Excretion with Blood Pressure Variability and Cardiovascular Outcomes in Patients with Pre-Dialysis Chronic Kidney Disease",
+    "journal": "Nutrients",
     "date": "2021-12",
     "year": "2021",
     "month": "12",
-    "doi": "10.3390/jcm11010178",
-    "authors": "Suh SH, Oh TR, Choi HS, Kim CS, Oh KH, Lee J, Oh YK, Jung JY, Choi KH, Ma SK, Bae EH, Kim SW, On Behalf Of The Korean Cohort Study For Outcomes In Patients With Chronic Kidney Disease Know-Ckd Investigators "
+    "doi": "10.3390/nu13124443",
+    "authors": "Suh SH, Song SH, Oh TR, Choi HS, Kim CS, Bae EH, Oh KH, Lee J, Han SH, Kim YH, Chae DW, Ma SK, Kim SW, On Behalf Of The Korean Cohort Study For Outcomes In Patients With Chronic Kidney Disease Know-Ckd Investigators "
   },
   {
     "pmid": "34945844",
@@ -1558,16 +1568,6 @@
     "month": "12",
     "doi": "10.3390/jpm11121372",
     "authors": "Oh TR, Song SH, Choi HS, Suh SH, Kim CS, Jung JY, Choi KH, Oh KH, Ma SK, Bae EH, Kim SW"
-  },
-  {
-    "pmid": "34959995",
-    "title": "Association of Urinary Potassium Excretion with Blood Pressure Variability and Cardiovascular Outcomes in Patients with Pre-Dialysis Chronic Kidney Disease",
-    "journal": "Nutrients",
-    "date": "2021-12",
-    "year": "2021",
-    "month": "12",
-    "doi": "10.3390/nu13124443",
-    "authors": "Suh SH, Song SH, Oh TR, Choi HS, Kim CS, Bae EH, Oh KH, Lee J, Han SH, Kim YH, Chae DW, Ma SK, Kim SW, On Behalf Of The Korean Cohort Study For Outcomes In Patients With Chronic Kidney Disease Know-Ckd Investigators "
   },
   {
     "pmid": "34889070",
@@ -1600,26 +1600,6 @@
     "authors": "Kim H, Lee J, Choi GH, Jeong HM, Kim SH, Gu JE, Yoo JJ, Han M, Kim HJ, Sung SA, Han SH, Kim YH, Yoon JW, Heo J, Oh KH"
   },
   {
-    "pmid": "34710957",
-    "title": "Effect of Childhood Trauma on the Association Between Stress-Related Psychological Factors and Hair Cortisol Level in Young Adults",
-    "journal": "Psychiatry Investig",
-    "date": "2021-10",
-    "year": "2021",
-    "month": "10",
-    "doi": "10.30773/pi.2021.0256",
-    "authors": "Kim WJ, Park KM, Park JT, Seo E, Bang M, An SK, Park HY, Lee E"
-  },
-  {
-    "pmid": "34666803",
-    "title": "Sex-specific association of hair cortisol concentration with stress-related psychological factors in healthy young adults",
-    "journal": "Biol Sex Differ",
-    "date": "2021-10",
-    "year": "2021",
-    "month": "10",
-    "doi": "10.1186/s13293-021-00399-8",
-    "authors": "Kim WJ, Park KM, Park JT, Seo E, An SK, Park HY, Lee E"
-  },
-  {
     "pmid": "34893405",
     "title": "Low-density lipoprotein cholesterol levels and adverse clinical outcomes in chronic kidney disease: Results from the KNOW-CKD",
     "journal": "Nutr Metab Cardiovasc Dis",
@@ -1640,14 +1620,24 @@
     "authors": "Park CH, Lee HS, Kwak MS, Shin JS"
   },
   {
-    "pmid": "34650992",
-    "title": "Increased Risk of Chronic Kidney Disease Associated With Weight Gain in Healthy Adults: Insight From Metabolic Profiles and Body Composition",
-    "journal": "Front Med (Lausanne)",
-    "date": "2021-09",
+    "pmid": "34710957",
+    "title": "Effect of Childhood Trauma on the Association Between Stress-Related Psychological Factors and Hair Cortisol Level in Young Adults",
+    "journal": "Psychiatry Investig",
+    "date": "2021-10",
     "year": "2021",
-    "month": "09",
-    "doi": "10.3389/fmed.2021.705881",
-    "authors": "Yun HR, Kim HW, Chang TI, Kang EW, Joo YS, Nam KH, Kim H, Park JT, Yoo TH, Kang SW, Han SH"
+    "month": "10",
+    "doi": "10.30773/pi.2021.0256",
+    "authors": "Kim WJ, Park KM, Park JT, Seo E, Bang M, An SK, Park HY, Lee E"
+  },
+  {
+    "pmid": "34666803",
+    "title": "Sex-specific association of hair cortisol concentration with stress-related psychological factors in healthy young adults",
+    "journal": "Biol Sex Differ",
+    "date": "2021-10",
+    "year": "2021",
+    "month": "10",
+    "doi": "10.1186/s13293-021-00399-8",
+    "authors": "Kim WJ, Park KM, Park JT, Seo E, An SK, Park HY, Lee E"
   },
   {
     "pmid": "34684382",
@@ -1658,6 +1648,16 @@
     "month": "09",
     "doi": "10.3390/nu13103381",
     "authors": "Suh SH, Oh TR, Choi HS, Kim CS, Bae EH, Park SK, Kim YS, Kim YH, Choi KH, Oh KH, Ma SK, Kim SW, On Behalf Of The KoreaN Cohort Study For Outcomes In Patients With Chronic Kidney Disease Know-Ckd Investigators "
+  },
+  {
+    "pmid": "34650992",
+    "title": "Increased Risk of Chronic Kidney Disease Associated With Weight Gain in Healthy Adults: Insight From Metabolic Profiles and Body Composition",
+    "journal": "Front Med (Lausanne)",
+    "date": "2021-09",
+    "year": "2021",
+    "month": "09",
+    "doi": "10.3389/fmed.2021.705881",
+    "authors": "Yun HR, Kim HW, Chang TI, Kang EW, Joo YS, Nam KH, Kim H, Park JT, Yoo TH, Kang SW, Han SH"
   },
   {
     "pmid": "34640376",
@@ -1840,14 +1840,14 @@
     "authors": "Kim S, Kang SW, Joo J, Han SH, Shin H, Nam BY, Park J, Yoo TH, Kim G, Lee P, Park JT"
   },
   {
-    "pmid": "31848615",
-    "title": "Urinary chloride concentration and progression of chronic kidney disease: results from the KoreaN cohort study for Outcomes in patients With Chronic Kidney Disease",
-    "journal": "Nephrol Dial Transplant",
+    "pmid": "33758303",
+    "title": "Low-dose aspirin was associated with an increased risk of cardiovascular events in patients with chronic kidney disease patients and low bodyweight: results from KNOW-CKD study",
+    "journal": "Sci Rep",
     "date": "2021-03",
     "year": "2021",
     "month": "03",
-    "doi": "10.1093/ndt/gfz247",
-    "authors": "Joo YS, Kim J, Park CH, Yun HR, Park JT, Chang TI, Yoo TH, Sung SA, Lee J, Oh KH, Kim SW, Kang SW, Choi KH, Ahn C, Han SH"
+    "doi": "10.1038/s41598-021-86192-4",
+    "authors": "Oh YJ, Kim AJ, Ro H, Chang JH, Lee HH, Chung W, Hyun YY, Lee J, Kim YH, Han SH, Chae DW, Ahn C, Oh KH, Jung JY"
   },
   {
     "pmid": "33755931",
@@ -1860,34 +1860,14 @@
     "authors": "Lee SY, Park JT, Joo YS, Yoo TH, Lee J, Chung W, Kim YS, Kim SW, Oh KH, Ahn C, Kang SW, Choi KH, Han SH"
   },
   {
-    "pmid": "33758303",
-    "title": "Low-dose aspirin was associated with an increased risk of cardiovascular events in patients with chronic kidney disease patients and low bodyweight: results from KNOW-CKD study",
-    "journal": "Sci Rep",
+    "pmid": "31848615",
+    "title": "Urinary chloride concentration and progression of chronic kidney disease: results from the KoreaN cohort study for Outcomes in patients With Chronic Kidney Disease",
+    "journal": "Nephrol Dial Transplant",
     "date": "2021-03",
     "year": "2021",
     "month": "03",
-    "doi": "10.1038/s41598-021-86192-4",
-    "authors": "Oh YJ, Kim AJ, Ro H, Chang JH, Lee HH, Chung W, Hyun YY, Lee J, Kim YH, Han SH, Chae DW, Ahn C, Oh KH, Jung JY"
-  },
-  {
-    "pmid": "32582942",
-    "title": "Measured sodium excretion is associated with CKD progression: results from the KNOW-CKD study",
-    "journal": "Nephrol Dial Transplant",
-    "date": "2021-02",
-    "year": "2021",
-    "month": "02",
-    "doi": "10.1093/ndt/gfaa107",
-    "authors": "Kang M, Kang E, Ryu H, Hong Y, Han SS, Park SK, Hyun YY, Sung SA, Kim SW, Yoo TH, Kim J, Ahn C, Oh KH"
-  },
-  {
-    "pmid": "33555575",
-    "title": "Systolic blood pressure and chronic kidney disease progression in patients with primary glomerular disease",
-    "journal": "J Nephrol",
-    "date": "2021-02",
-    "year": "2021",
-    "month": "02",
-    "doi": "10.1007/s40620-020-00930-x",
-    "authors": "Kim HW, Park JT, Joo YS, Kang SC, Lee JY, Lee S, Chang TI, Kang EW, Ryu DR, Yoo TH, Chin HJ, Kang SW, Han SH"
+    "doi": "10.1093/ndt/gfz247",
+    "authors": "Joo YS, Kim J, Park CH, Yun HR, Park JT, Chang TI, Yoo TH, Sung SA, Lee J, Oh KH, Kim SW, Kang SW, Choi KH, Ahn C, Han SH"
   },
   {
     "pmid": "33558472",
@@ -1900,14 +1880,14 @@
     "authors": "Kim S, Kang SW, Joo J, Han SH, Shin H, Nam BY, Park J, Yoo TH, Kim G, Lee P, Park JT"
   },
   {
-    "pmid": "33031169",
-    "title": "Effect of ambulatory blood pressure monitoring guided antihypertensive treatment on renal progression in patients with chronic kidney disease: a randomized comparative study",
-    "journal": "J Hypertens",
+    "pmid": "33555575",
+    "title": "Systolic blood pressure and chronic kidney disease progression in patients with primary glomerular disease",
+    "journal": "J Nephrol",
     "date": "2021-02",
     "year": "2021",
     "month": "02",
-    "doi": "10.1097/HJH.0000000000002624",
-    "authors": "Kim Y, Kim J, Lee SW, Sung S, Yoo TH, Lee KB, Hwang YH, Kim T, Kang SW, Kim YH, Oh KH"
+    "doi": "10.1007/s40620-020-00930-x",
+    "authors": "Kim HW, Park JT, Joo YS, Kang SC, Lee JY, Lee S, Chang TI, Kang EW, Ryu DR, Yoo TH, Chin HJ, Kang SW, Han SH"
   },
   {
     "pmid": "33535372",
@@ -1920,14 +1900,34 @@
     "authors": "Lee JM, Ko Y, Lee CH, Jeon N, Lee KH, Oh J, Kronbichler A, Saleem MA, Lim BJ, Shin JI"
   },
   {
-    "pmid": "33469756",
-    "title": "Effect of Psychosocial Distress on the Rate of Kidney Function Decline",
-    "journal": "J Gen Intern Med",
+    "pmid": "33031169",
+    "title": "Effect of ambulatory blood pressure monitoring guided antihypertensive treatment on renal progression in patients with chronic kidney disease: a randomized comparative study",
+    "journal": "J Hypertens",
+    "date": "2021-02",
+    "year": "2021",
+    "month": "02",
+    "doi": "10.1097/HJH.0000000000002624",
+    "authors": "Kim Y, Kim J, Lee SW, Sung S, Yoo TH, Lee KB, Hwang YH, Kim T, Kang SW, Kim YH, Oh KH"
+  },
+  {
+    "pmid": "32582942",
+    "title": "Measured sodium excretion is associated with CKD progression: results from the KNOW-CKD study",
+    "journal": "Nephrol Dial Transplant",
+    "date": "2021-02",
+    "year": "2021",
+    "month": "02",
+    "doi": "10.1093/ndt/gfaa107",
+    "authors": "Kang M, Kang E, Ryu H, Hong Y, Han SS, Park SK, Hyun YY, Sung SA, Kim SW, Yoo TH, Kim J, Ahn C, Oh KH"
+  },
+  {
+    "pmid": "33912740",
+    "title": "Rituximab in Membranous Nephropathy",
+    "journal": "Kidney Int Rep",
     "date": "2021-01",
     "year": "2021",
     "month": "01",
-    "doi": "10.1007/s11606-020-06573-9",
-    "authors": "Kim JY, Joo YS, Jhee JH, Han SH, Yoo TH, Kang SW, Park JT"
+    "doi": "10.1016/j.ekir.2020.12.035",
+    "authors": "Gauckler P, Shin JI, Alberici F, Audard V, Bruchfeld A, Busch M, Cheung CK, Crnogorac M, Delbarba E, Eller K, Faguer S, Galesic K, Griffin S, van den Hoogen MWF, Hrušková Z, Jeyabalan A, Karras A, King C, Kohli HS, Mayer G, Maas R, Muto M, Moiseev S, Odler B, Pepper RJ, Quintana LF, Radhakrishnan J, Ramachandran R, Salama AD, Schönermarck U, Segelmark M, Smith L, Tesař V, Wetzels J, Willcocks L, Windpessl M, Zand L, Zonozi R, Kronbichler A"
   },
   {
     "pmid": "33478025",
@@ -1940,14 +1940,14 @@
     "authors": "Oh TR, Song SH, Choi HS, Kim CS, Han SH, Kang KP, Kwon YJ, Kim SW, Ma SK, Bae EH"
   },
   {
-    "pmid": "33912740",
-    "title": "Rituximab in Membranous Nephropathy",
-    "journal": "Kidney Int Rep",
+    "pmid": "33469756",
+    "title": "Effect of Psychosocial Distress on the Rate of Kidney Function Decline",
+    "journal": "J Gen Intern Med",
     "date": "2021-01",
     "year": "2021",
     "month": "01",
-    "doi": "10.1016/j.ekir.2020.12.035",
-    "authors": "Gauckler P, Shin JI, Alberici F, Audard V, Bruchfeld A, Busch M, Cheung CK, Crnogorac M, Delbarba E, Eller K, Faguer S, Galesic K, Griffin S, van den Hoogen MWF, Hrušková Z, Jeyabalan A, Karras A, King C, Kohli HS, Mayer G, Maas R, Muto M, Moiseev S, Odler B, Pepper RJ, Quintana LF, Radhakrishnan J, Ramachandran R, Salama AD, Schönermarck U, Segelmark M, Smith L, Tesař V, Wetzels J, Willcocks L, Windpessl M, Zand L, Zonozi R, Kronbichler A"
+    "doi": "10.1007/s11606-020-06573-9",
+    "authors": "Kim JY, Joo YS, Jhee JH, Han SH, Yoo TH, Kang SW, Park JT"
   },
   {
     "pmid": "33444666",
@@ -1970,16 +1970,6 @@
     "authors": "Lee S, Kang S, Joo YS, Lee C, Nam KH, Yun HR, Park JT, Chang TI, Yoo TH, Kim SW, Oh KH, Kim YH, Park SK, Kang SW, Choi KH, Ahn C, Han SH"
   },
   {
-    "pmid": "33318341",
-    "title": "Cumulative fluid balance and mortality in elderly patients with acute kidney injury requiring continuous renal-replacement therapy: a multicenter prospective cohort study",
-    "journal": "Kidney Res Clin Pract",
-    "date": "2020-12",
-    "year": "2020",
-    "month": "12",
-    "doi": "10.23876/j.krcp.20.089",
-    "authors": "Jhee JH, Park JY, An JN, Kim DK, Joo KW, Oh YK, Lim CS, Kim YS, Han SH, Yoo TH, Kang SW, Lee JP, Park JT"
-  },
-  {
     "pmid": "33325248",
     "title": "Soluble Urokinase-Type Plasminogen Activator Receptor, Changes of 24-Hour Blood Pressure, and Progression of Chronic Kidney Disease",
     "journal": "J Am Heart Assoc",
@@ -1998,6 +1988,16 @@
     "month": "12",
     "doi": "10.1053/j.jrn.2020.10.001",
     "authors": "Lee H, Park HH, Jo IY, Jhee JH, Park JT, Lee SM"
+  },
+  {
+    "pmid": "33318341",
+    "title": "Cumulative fluid balance and mortality in elderly patients with acute kidney injury requiring continuous renal-replacement therapy: a multicenter prospective cohort study",
+    "journal": "Kidney Res Clin Pract",
+    "date": "2020-12",
+    "year": "2020",
+    "month": "12",
+    "doi": "10.23876/j.krcp.20.089",
+    "authors": "Jhee JH, Park JY, An JN, Kim DK, Joo KW, Oh YK, Lim CS, Kim YS, Han SH, Yoo TH, Kang SW, Lee JP, Park JT"
   },
   {
     "pmid": "31377783",
@@ -2020,16 +2020,6 @@
     "authors": "Jhee JH, Nam BY, Park JT, Kim HW, Chang TI, Kang EW, Lim BJ, Yoo TH, Kang SW, Jeong HJ, Han SH"
   },
   {
-    "pmid": "33092438",
-    "title": "Low High-Sensitivity C-Reactive Protein Level in Korean Patients With Chronic Kidney Disease and Its Predictive Significance for Cardiovascular Events, Mortality, and Adverse Kidney Outcomes: Results From KNOW-CKD",
-    "journal": "J Am Heart Assoc",
-    "date": "2020-10",
-    "year": "2020",
-    "month": "10",
-    "doi": "10.1161/JAHA.120.017980",
-    "authors": "Lee C, Park KH, Joo YS, Nam KH, Chang TI, Kang EW, Lee J, Oh YK, Jung JY, Ahn C, Lee KB, Park JT, Yoo TH, Kang SW, Han SH"
-  },
-  {
     "pmid": "33098923",
     "title": "Creatinine-Cystatin C Ratio and Mortality in Patients Receiving Intensive Care and Continuous Kidney Replacement Therapy: A Retrospective Cohort Study",
     "journal": "Am J Kidney Dis",
@@ -2038,6 +2028,16 @@
     "month": "10",
     "doi": "10.1053/j.ajkd.2020.08.014",
     "authors": "Jung CY, Joo YS, Kim HW, Han SH, Yoo TH, Kang SW, Park JT"
+  },
+  {
+    "pmid": "33092438",
+    "title": "Low High-Sensitivity C-Reactive Protein Level in Korean Patients With Chronic Kidney Disease and Its Predictive Significance for Cardiovascular Events, Mortality, and Adverse Kidney Outcomes: Results From KNOW-CKD",
+    "journal": "J Am Heart Assoc",
+    "date": "2020-10",
+    "year": "2020",
+    "month": "10",
+    "doi": "10.1161/JAHA.120.017980",
+    "authors": "Lee C, Park KH, Joo YS, Nam KH, Chang TI, Kang EW, Lee J, Oh YK, Jung JY, Ahn C, Lee KB, Park JT, Yoo TH, Kang SW, Han SH"
   },
   {
     "pmid": "33028070",
@@ -2060,16 +2060,6 @@
     "authors": "Yoo TH"
   },
   {
-    "pmid": "32691878",
-    "title": "The alternative complement pathway in ANCA-associated vasculitis: further evidence and a meta-analysis",
-    "journal": "Clin Exp Immunol",
-    "date": "2020-09",
-    "year": "2020",
-    "month": "09",
-    "doi": "10.1111/cei.13498",
-    "authors": "Moiseev S, Lee JM, Zykova A, Bulanov N, Novikov P, Gitel E, Bulanova M, Safonova E, Shin JI, Kronbichler A, Jayne DRW"
-  },
-  {
     "pmid": "32942039",
     "title": "Rituximab in adult minimal change disease and focal segmental glomerulosclerosis - What is known and what is still unknown?",
     "journal": "Autoimmun Rev",
@@ -2088,6 +2078,16 @@
     "month": "09",
     "doi": "10.18632/aging.103741",
     "authors": "Joo YS, Jhee JH, Kim HW, Han SH, Yoo TH, Kang SW, Park JT"
+  },
+  {
+    "pmid": "32691878",
+    "title": "The alternative complement pathway in ANCA-associated vasculitis: further evidence and a meta-analysis",
+    "journal": "Clin Exp Immunol",
+    "date": "2020-09",
+    "year": "2020",
+    "month": "09",
+    "doi": "10.1111/cei.13498",
+    "authors": "Moiseev S, Lee JM, Zykova A, Bulanov N, Novikov P, Gitel E, Bulanova M, Safonova E, Shin JI, Kronbichler A, Jayne DRW"
   },
   {
     "pmid": "32516289",
@@ -2130,16 +2130,6 @@
     "authors": "Joo YS, Lee C, Kim HW, Jhee J, Yun HR, Park JT, Chang TI, Yoo TH, Kang SW, Han SH"
   },
   {
-    "pmid": "32683804",
-    "title": "Understanding the genetics of systemic lupus erythematosus using Bayesian statistics and gene network analysis",
-    "journal": "Clin Exp Pediatr",
-    "date": "2020-07",
-    "year": "2020",
-    "month": "07",
-    "doi": "10.3345/cep.2020.00633",
-    "authors": "Nam SW, Lee KS, Yang JW, Ko Y, Eisenhut M, Lee KH, Shin JI, Kronbichler A"
-  },
-  {
     "pmid": "32753349",
     "title": "Dietary zinc intake and incident chronic kidney disease",
     "journal": "Clin Nutr",
@@ -2148,6 +2138,16 @@
     "month": "07",
     "doi": "10.1016/j.clnu.2020.07.005",
     "authors": "Joo YS, Kim HW, Lee S, Nam KH, Yun HR, Jhee JH, Han SH, Yoo TH, Kang SW, Park JT"
+  },
+  {
+    "pmid": "32683804",
+    "title": "Understanding the genetics of systemic lupus erythematosus using Bayesian statistics and gene network analysis",
+    "journal": "Clin Exp Pediatr",
+    "date": "2020-07",
+    "year": "2020",
+    "month": "07",
+    "doi": "10.3345/cep.2020.00633",
+    "authors": "Nam SW, Lee KS, Yang JW, Ko Y, Eisenhut M, Lee KH, Shin JI, Kronbichler A"
   },
   {
     "pmid": "32642852",
@@ -2160,16 +2160,6 @@
     "authors": "Hyun YY, Lee KB, Han SH, Choi KH, Park HC, Oh YK, Park SK, Oh KH, Ahn C"
   },
   {
-    "pmid": "32409782",
-    "title": "COVID-19: implications for immunosuppression in kidney disease and transplantation",
-    "journal": "Nat Rev Nephrol",
-    "date": "2020-07",
-    "year": "2020",
-    "month": "07",
-    "doi": "10.1038/s41581-020-0305-6",
-    "authors": "Kronbichler A, Gauckler P, Windpessl M, Il Shin J, Jha V, Rovin BH, Oberbauer R"
-  },
-  {
     "pmid": "32611773",
     "title": "Predicting Disease Activity in Systemic Vasculitides: On the Hunt for Potential Candidates",
     "journal": "J Rheumatol",
@@ -2180,14 +2170,24 @@
     "authors": "Kronbichler A, Shin JI, Berti A"
   },
   {
-    "pmid": "32550711",
-    "title": "The KNOW-CKD Study: What we have learned about chronic kidney diseases",
-    "journal": "Kidney Res Clin Pract",
+    "pmid": "32409782",
+    "title": "COVID-19: implications for immunosuppression in kidney disease and transplantation",
+    "journal": "Nat Rev Nephrol",
+    "date": "2020-07",
+    "year": "2020",
+    "month": "07",
+    "doi": "10.1038/s41581-020-0305-6",
+    "authors": "Kronbichler A, Gauckler P, Windpessl M, Il Shin J, Jha V, Rovin BH, Oberbauer R"
+  },
+  {
+    "pmid": "32615333",
+    "title": "Changes in resting-state brain connectivity following computerized cognitive behavioral therapy for insomnia in dialysis patients: A pilot study",
+    "journal": "Gen Hosp Psychiatry",
     "date": "2020-06",
     "year": "2020",
     "month": "06",
-    "doi": "10.23876/j.krcp.20.042",
-    "authors": "Oh KH, Kang M, Kang E, Ryu H, Han SH, Yoo TH, Kim SW, Chae DW, Lee KB, Park SK, Kim YH, Ahn C"
+    "doi": "10.1016/j.genhosppsych.2020.05.013",
+    "authors": "Park HY, Lee H, Jhee JH, Park KM, Choi EC, An SK, Namkoong K, Lee E, Park JT"
   },
   {
     "pmid": "32576714",
@@ -2220,6 +2220,16 @@
     "authors": "Jung JY, Ro H, Chang JH, Kim AJ, Lee HH, Han SH, Yoo TH, Lee KB, Kim YH, Kim SW, Park SK, Chae DW, Oh KH, Ahn C, Chung W"
   },
   {
+    "pmid": "32550711",
+    "title": "The KNOW-CKD Study: What we have learned about chronic kidney diseases",
+    "journal": "Kidney Res Clin Pract",
+    "date": "2020-06",
+    "year": "2020",
+    "month": "06",
+    "doi": "10.23876/j.krcp.20.042",
+    "authors": "Oh KH, Kang M, Kang E, Ryu H, Han SH, Yoo TH, Kim SW, Chae DW, Lee KB, Park SK, Kim YH, Ahn C"
+  },
+  {
     "pmid": "32539731",
     "title": "Prognostic value of soluble ST2 and soluble LR11 on mortality and cardiovascular events in peritoneal dialysis patients",
     "journal": "BMC Nephrol",
@@ -2228,16 +2238,6 @@
     "month": "06",
     "doi": "10.1186/s12882-020-01886-7",
     "authors": "Choi YB, Lee MJ, Park JT, Han SH, Kang SW, Yoo TH, Kim HJ"
-  },
-  {
-    "pmid": "32615333",
-    "title": "Changes in resting-state brain connectivity following computerized cognitive behavioral therapy for insomnia in dialysis patients: A pilot study",
-    "journal": "Gen Hosp Psychiatry",
-    "date": "2020-06",
-    "year": "2020",
-    "month": "06",
-    "doi": "10.1016/j.genhosppsych.2020.05.013",
-    "authors": "Park HY, Lee H, Jhee JH, Park KM, Choi EC, An SK, Namkoong K, Lee E, Park JT"
   },
   {
     "pmid": "32305520",
@@ -2270,16 +2270,6 @@
     "authors": "Kronbichler A, Effenberger M, Shin JI, Koppelstätter C, Denicolò S, Rudnicki M, Neuwirt H, Soler MJ, Stevens K, Bruchfeld A, Tilg H, Mayer G, Perco P"
   },
   {
-    "pmid": "32182639",
-    "title": "Intensity of statin therapy and renal outcome in chronic kidney disease: Results from the Korean Cohort Study for Outcome in Patients With Chronic Kidney Disease",
-    "journal": "Kidney Res Clin Pract",
-    "date": "2020-03",
-    "year": "2020",
-    "month": "03",
-    "doi": "10.23876/j.krcp.20.007",
-    "authors": "Jhee JH, Joo YS, Park JT, Yoo TH, Park SK, Jung JY, Kim SW, Oh YK, Oh KH, Kang SW, Choi KH, Ahn C, Han SH"
-  },
-  {
     "pmid": "32209314",
     "title": "Corrigendum to \"Predictive value of mesangial C3 and C4d deposition in IgA nephropathy\" [Clinical Immunology 211 (2020) 108331]",
     "journal": "Clin Immunol",
@@ -2288,6 +2278,16 @@
     "month": "03",
     "doi": "10.1016/j.clim.2020.108386",
     "authors": "Nam KH, Joo YS, Lee C, Lee S, Kim J, Yun HR, Park JT, Chang TI, Ryu DR, Yoo TH, Chin HJ, Kang SW, Jeong HJ, Lim BJ, Han SH"
+  },
+  {
+    "pmid": "32182639",
+    "title": "Intensity of statin therapy and renal outcome in chronic kidney disease: Results from the Korean Cohort Study for Outcome in Patients With Chronic Kidney Disease",
+    "journal": "Kidney Res Clin Pract",
+    "date": "2020-03",
+    "year": "2020",
+    "month": "03",
+    "doi": "10.23876/j.krcp.20.007",
+    "authors": "Jhee JH, Joo YS, Park JT, Yoo TH, Park SK, Jung JY, Kim SW, Oh YK, Oh KH, Kang SW, Choi KH, Ahn C, Han SH"
   },
   {
     "pmid": "32179774",

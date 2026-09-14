@@ -1,15 +1,5 @@
 [
   {
-    "pmid": "42554151",
-    "title": "Preoperative ionized calcium levels and risk of acute kidney injury after cardiac surgery",
-    "journal": "Kardiol Pol",
-    "date": "2026-08",
-    "year": "2026",
-    "month": "08",
-    "doi": "10.33963/v.phj.113980",
-    "authors": "Lee JH, Kim HJ, Lee JH, Kim SJ, Moon SJ, Park JT, Koh HB"
-  },
-  {
     "pmid": "42640732",
     "title": "Plasma Levels of Growth Differentiation Factor 15 and Adverse Kidney Outcomes: Proteomics-Based Mediation Analysis and Mendelian Randomization",
     "journal": "Clin J Am Soc Nephrol",
@@ -30,6 +20,16 @@
     "authors": "Koh HB, Kim HJ, Park CH, Ryu JH, Jung HY, Kim MG, Han S, Kang KP, Lee KW, Park JB, Kang SH, Ban TH, Huh KH, Kim MS, Kim BS, Yang J"
   },
   {
+    "pmid": "42554151",
+    "title": "Preoperative ionized calcium levels and risk of acute kidney injury after cardiac surgery",
+    "journal": "Kardiol Pol",
+    "date": "2026-08",
+    "year": "2026",
+    "month": "08",
+    "doi": "10.33963/v.phj.113980",
+    "authors": "Lee JH, Kim HJ, Lee JH, Kim SJ, Moon SJ, Park JT, Koh HB"
+  },
+  {
     "pmid": "42548248",
     "title": "Rationale and design of the EXCELSIOR-CKD trial: intensive blood pressure and lipid control in advanced chronic kidney disease",
     "journal": "Kidney Res Clin Pract",
@@ -38,6 +38,16 @@
     "month": "08",
     "doi": "10.23876/j.krcp.26.086",
     "authors": "Kim Y, Kim JK, Ko GJ, Lim JH, Shin JH, Lee JY, Jung CY, Chung BH, Park HS, Kim SG, Kim YC, Kim DK, Kim S, Chang TI, Park SH, Han SH"
+  },
+  {
+    "pmid": "42586542",
+    "title": "Overlapping Diabetes- and CKD-Driven Vascular Phenotypes of Peripheral Artery Disease: A Limb-First Framework for Chronic Limb-Threatening Ischemia",
+    "journal": "Korean Circ J",
+    "date": "2026-07",
+    "year": "2026",
+    "month": "07",
+    "doi": "10.4070/kcj.2026.0070",
+    "authors": "Lee JY, Jang JY, Oh CM"
   },
   {
     "pmid": "42533531",
@@ -68,16 +78,6 @@
     "month": "07",
     "doi": "10.1097/TP.0000000000005839",
     "authors": "Koh HB, Kim HJ, Kim HW, Ko B, Kang M, Kim HJ, Lee J, Kim MS, Kim BS, Huh KH, Yang J"
-  },
-  {
-    "pmid": "42586542",
-    "title": "Overlapping Diabetes- and CKD-Driven Vascular Phenotypes of Peripheral Artery Disease: A Limb-First Framework for Chronic Limb-Threatening Ischemia",
-    "journal": "Korean Circ J",
-    "date": "2026-07",
-    "year": "2026",
-    "month": "07",
-    "doi": "10.4070/kcj.2026.0070",
-    "authors": "Lee JY, Jang JY, Oh CM"
   },
   {
     "pmid": "42373848",
@@ -130,16 +130,6 @@
     "authors": "Lee KH, Yoon D, Lim H, Lee KB, Lee YK"
   },
   {
-    "pmid": "42015653",
-    "title": "Efficacy and Safety of Switching from Entecavir to Tenofovir Alafenamide in Chronic Hepatitis B: A Multicenter Randomized Trial in Korea",
-    "journal": "Gut Liver",
-    "date": "2026-04",
-    "year": "2026",
-    "month": "04",
-    "doi": "10.5009/gnl250479",
-    "authors": "Shin H, Hur MH, Baek YH, Lee CK, Cho YK, Lee JS, Jeong JY, Jung YJ, Kim JK, Kim MY, Seo YS, Chung WJ, Koh MS, Kim JH, Lee YB, Cho EJ, Lee JH, Yu SJ, Yoon JH, Kim YJ"
-  },
-  {
     "pmid": "42075561",
     "title": "Engagement in Particulate Matter Exposure Reduction Behaviors Across Diverse Clinical Cohorts",
     "journal": "Medicina (Kaunas)",
@@ -148,6 +138,16 @@
     "month": "04",
     "doi": "10.3390/medicina62040689",
     "authors": "Moon SW, Jung JY, Ji HW, Kang DR, Lee YJ, Kim JB, Lee YB, Kim C, Cho J, Kim MJ, Park HJ, Kim YS"
+  },
+  {
+    "pmid": "42015653",
+    "title": "Efficacy and Safety of Switching from Entecavir to Tenofovir Alafenamide in Chronic Hepatitis B: A Multicenter Randomized Trial in Korea",
+    "journal": "Gut Liver",
+    "date": "2026-04",
+    "year": "2026",
+    "month": "04",
+    "doi": "10.5009/gnl250479",
+    "authors": "Shin H, Hur MH, Baek YH, Lee CK, Cho YK, Lee JS, Jeong JY, Jung YJ, Kim JK, Kim MY, Seo YS, Chung WJ, Koh MS, Kim JH, Lee YB, Cho EJ, Lee JH, Yu SJ, Yoon JH, Kim YJ"
   },
   {
     "pmid": "41840356",
@@ -240,16 +240,6 @@
     "authors": "Lee DY, Moon SJ, Han KD, Ko JH, Jang HN, Kwon HM, Park SE, Rhee EJ, Lee WY"
   },
   {
-    "pmid": "40338644",
-    "title": "Comparing continuity of care before and after disability registration: a retrospective cohort study",
-    "journal": "Int J Qual Health Care",
-    "date": "2025-07",
-    "year": "2025",
-    "month": "07",
-    "doi": "10.1093/intqhc/mzaf045",
-    "authors": "Piao Z, Choi H, Jeon B, Han E"
-  },
-  {
     "pmid": "40600868",
     "title": "Plasma Levels of Fibroblast Growth Factor 21 and Adverse Kidney Outcomes",
     "journal": "Mayo Clin Proc",
@@ -260,14 +250,14 @@
     "authors": "Koh HB, Kim HJ, Kim HW, Chang TI, Park JT, Yoo TH, Kang SW, Han SH"
   },
   {
-    "pmid": "40366680",
-    "title": "Spironolactone vs Amiloride for Resistant Hypertension: A Randomized Clinical Trial",
-    "journal": "JAMA",
-    "date": "2025-06",
+    "pmid": "40338644",
+    "title": "Comparing continuity of care before and after disability registration: a retrospective cohort study",
+    "journal": "Int J Qual Health Care",
+    "date": "2025-07",
     "year": "2025",
-    "month": "06",
-    "doi": "10.1001/jama.2025.5129",
-    "authors": "Lee CJ, Ihm SH, Shin DH, Jeong JO, Kim JH, Chun KH, Ryu J, Lee HY, Choi S, Lee EM, Choi JH, Kim KI, Shin J, Pyun WB, Kim DH, Park S, Williams B"
+    "month": "07",
+    "doi": "10.1093/intqhc/mzaf045",
+    "authors": "Piao Z, Choi H, Jeon B, Han E"
   },
   {
     "pmid": "40571333",
@@ -300,6 +290,16 @@
     "authors": "Park PG, Choi HJ, Park YB, Lee SW"
   },
   {
+    "pmid": "40366680",
+    "title": "Spironolactone vs Amiloride for Resistant Hypertension: A Randomized Clinical Trial",
+    "journal": "JAMA",
+    "date": "2025-06",
+    "year": "2025",
+    "month": "06",
+    "doi": "10.1001/jama.2025.5129",
+    "authors": "Lee CJ, Ihm SH, Shin DH, Jeong JO, Kim JH, Chun KH, Ryu J, Lee HY, Choi S, Lee EM, Choi JH, Kim KI, Shin J, Pyun WB, Kim DH, Park S, Williams B"
+  },
+  {
     "pmid": "40380525",
     "title": "Development of Labeling Algorithm for Early Prediction of Acute Kidney Injury",
     "journal": "Stud Health Technol Inform",
@@ -320,16 +320,6 @@
     "authors": "Choi HI, Oh SJ, Jo YH, Park YH, Park YH, Yang TH, Doh JH, Hong YJ, Ahn KT, Cho JM, Kim BJ"
   },
   {
-    "pmid": "39392785",
-    "title": "Association between colchicine use and adverse cardiovascular events in patients with gout: a nationwide nested case-control study",
-    "journal": "Rheumatology (Oxford)",
-    "date": "2025-05",
-    "year": "2025",
-    "month": "05",
-    "doi": "10.1093/rheumatology/keae545",
-    "authors": "Kim HW, Kang M, Lim H, Park CH, Kim JY, Chang TI, Han SH"
-  },
-  {
     "pmid": "39531317",
     "title": "Comment on: Association between colchicine use and adverse cardiovascular events in patients with gout: a nationwide nested case-control study: Reply",
     "journal": "Rheumatology (Oxford)",
@@ -338,6 +328,16 @@
     "month": "05",
     "doi": "10.1093/rheumatology/keae626",
     "authors": "Kim HW, Chang TI, Han SH"
+  },
+  {
+    "pmid": "39392785",
+    "title": "Association between colchicine use and adverse cardiovascular events in patients with gout: a nationwide nested case-control study",
+    "journal": "Rheumatology (Oxford)",
+    "date": "2025-05",
+    "year": "2025",
+    "month": "05",
+    "doi": "10.1093/rheumatology/keae545",
+    "authors": "Kim HW, Kang M, Lim H, Park CH, Kim JY, Chang TI, Han SH"
   },
   {
     "pmid": "40267843",
@@ -440,14 +440,14 @@
     "authors": "Lee JE, Kim BG, Won JC"
   },
   {
-    "pmid": "39566875",
-    "title": "Impact of Deep Learning-Based Computer-Aided Detection and Electronic Notification System for Pneumothorax on Time to Treatment: Clinical Implementation",
-    "journal": "J Am Coll Radiol",
+    "pmid": "39774415",
+    "title": "Use of Aspirin and Initial Cardiovascular and Bleeding Risk in Patients with Chronic Kidney Disease",
+    "journal": "Clin J Am Soc Nephrol",
     "date": "2024-11",
     "year": "2024",
     "month": "11",
-    "doi": "10.1016/j.jacr.2024.11.009",
-    "authors": "Oh SN, Yang H, Lee CK, Park SH, Han CH, Heo H, Kim YS"
+    "doi": "10.2215/CJN.0000000619",
+    "authors": "Kim JY, Lim H, Park CH, Kim HW, Chang TI, Han SH"
   },
   {
     "pmid": "39569393",
@@ -460,14 +460,14 @@
     "authors": "Kim M, Park SJ, Park YJ, Choi J, Song J, Kim HJ, Chang J, Park S, Kim J, Lee H, Oh SN, Jeong S, Kim KH, Son JS, Park SM"
   },
   {
-    "pmid": "39774415",
-    "title": "Use of Aspirin and Initial Cardiovascular and Bleeding Risk in Patients with Chronic Kidney Disease",
-    "journal": "Clin J Am Soc Nephrol",
+    "pmid": "39566875",
+    "title": "Impact of Deep Learning-Based Computer-Aided Detection and Electronic Notification System for Pneumothorax on Time to Treatment: Clinical Implementation",
+    "journal": "J Am Coll Radiol",
     "date": "2024-11",
     "year": "2024",
     "month": "11",
-    "doi": "10.2215/CJN.0000000619",
-    "authors": "Kim JY, Lim H, Park CH, Kim HW, Chang TI, Han SH"
+    "doi": "10.1016/j.jacr.2024.11.009",
+    "authors": "Oh SN, Yang H, Lee CK, Park SH, Han CH, Heo H, Kim YS"
   },
   {
     "pmid": "39536787",
@@ -480,16 +480,6 @@
     "authors": "Lee Y, Seo JH, Seong J, Ahn SM, Han M, Lee JA, Kim JH, Ahn JY, Jeong SJ, Choi JY, Yeom JS, Oh HJ, Ku NS"
   },
   {
-    "pmid": "39507043",
-    "title": "Association of concomitant H1 antihistamine and immune checkpoint inhibitor therapy on survival outcome and safety in patients with advanced primary lung cancer: a cohort study",
-    "journal": "Transl Lung Cancer Res",
-    "date": "2024-10",
-    "year": "2024",
-    "month": "10",
-    "doi": "10.21037/tlcr-24-795",
-    "authors": "Zhang WH, Li BX, Ma CX, Wang J, Yang F, Xiong YJ, Li SZ, Zhang JL, Du WJ, Hui ZZ, Shen M, Zhou L, Li RM, Tian X, Han Y, Ren BZ, Ichiki Y, Lee SC, Zhang XW, Cao S, Ren XB, Liu L"
-  },
-  {
     "pmid": "39524045",
     "title": "Post-Transplant Vitamin D Deficiency in Lung Transplant Recipients: Impact on Outcomes and Prognosis",
     "journal": "Transpl Int",
@@ -498,6 +488,16 @@
     "month": "10",
     "doi": "10.3389/ti.2024.13313",
     "authors": "Ki MS, Kim NE, Woo A, Kim SY, Kim YS, Kim HE, Lee JG, Paik HC, Park MS"
+  },
+  {
+    "pmid": "39507043",
+    "title": "Association of concomitant H1 antihistamine and immune checkpoint inhibitor therapy on survival outcome and safety in patients with advanced primary lung cancer: a cohort study",
+    "journal": "Transl Lung Cancer Res",
+    "date": "2024-10",
+    "year": "2024",
+    "month": "10",
+    "doi": "10.21037/tlcr-24-795",
+    "authors": "Zhang WH, Li BX, Ma CX, Wang J, Yang F, Xiong YJ, Li SZ, Zhang JL, Du WJ, Hui ZZ, Shen M, Zhou L, Li RM, Tian X, Han Y, Ren BZ, Ichiki Y, Lee SC, Zhang XW, Cao S, Ren XB, Liu L"
   },
   {
     "pmid": "39370442",
@@ -540,6 +540,16 @@
     "authors": "Kim YE, Kim D, Kim J, Yun M, Kang ES"
   },
   {
+    "pmid": "39335145",
+    "title": "Real-World Outcomes of First-Line Chemotherapy in Metastatic Pancreatic Cancer: A Nationwide Population-Based Study in Korea",
+    "journal": "Cancers (Basel)",
+    "date": "2024-09",
+    "year": "2024",
+    "month": "09",
+    "doi": "10.3390/cancers16183173",
+    "authors": "Park CS, Park BK, Han JH, Lee KJ, Son KJ"
+  },
+  {
     "pmid": "39328901",
     "title": "Survival predictors in patients with pancreatic cancer on liposomal irinotecan plus fluorouracil/leucovorin: a multicenter observational study",
     "journal": "Ther Adv Med Oncol",
@@ -558,16 +568,6 @@
     "month": "09",
     "doi": "10.4244/EIJ-D-24-00037",
     "authors": "Yoon YH, Lee JH, Hwang WM, Park HW, Roh JH, Lee SJ, Ko YG, Ahn CM, Yu CW, Lee SW, Youn YJ, Park JK, Yoon CH, Rha SW, Min PK, Choi SH, Chae IH, Choi D, On Behalf OTKI"
-  },
-  {
-    "pmid": "39335145",
-    "title": "Real-World Outcomes of First-Line Chemotherapy in Metastatic Pancreatic Cancer: A Nationwide Population-Based Study in Korea",
-    "journal": "Cancers (Basel)",
-    "date": "2024-09",
-    "year": "2024",
-    "month": "09",
-    "doi": "10.3390/cancers16183173",
-    "authors": "Park CS, Park BK, Han JH, Lee KJ, Son KJ"
   },
   {
     "pmid": "39251997",
@@ -590,16 +590,6 @@
     "authors": "Chung E, Leem AY, Lee SH, Kang YA, Kim YS, Chung KS"
   },
   {
-    "pmid": "39049169",
-    "title": "Association of physical inactivity and handgrip strength with non-tuberculous mycobacterial pulmonary disease",
-    "journal": "Int J Tuberc Lung Dis",
-    "date": "2024-08",
-    "year": "2024",
-    "month": "08",
-    "doi": "10.5588/ijtld.23.0476",
-    "authors": "Chung E, Park Y, Park DH, Jeon JY, Kang YA"
-  },
-  {
     "pmid": "39090289",
     "title": "Malnutrition is associated with mortality in Sjögren's syndrome-associated interstitial lung disease",
     "journal": "Sci Rep",
@@ -608,6 +598,16 @@
     "month": "08",
     "doi": "10.1038/s41598-024-68754-4",
     "authors": "Chung E, Woo A, Yong SH, Park Y, Lee SH, Kim SY, Kim EY, Jung JY, Kang YA, Kim YS, Park MS"
+  },
+  {
+    "pmid": "39049169",
+    "title": "Association of physical inactivity and handgrip strength with non-tuberculous mycobacterial pulmonary disease",
+    "journal": "Int J Tuberc Lung Dis",
+    "date": "2024-08",
+    "year": "2024",
+    "month": "08",
+    "doi": "10.5588/ijtld.23.0476",
+    "authors": "Chung E, Park Y, Park DH, Jeon JY, Kang YA"
   },
   {
     "pmid": "39118876",
@@ -620,16 +620,6 @@
     "authors": "Ji X, Jiang R, Liu T, Provencio M, Lee SC, Zhan Q, Zhou X"
   },
   {
-    "pmid": "39015029",
-    "title": "Differential Impact of Subcutaneous and Visceral Fat on Bone Changes after Gastrectomy",
-    "journal": "Endocrinol Metab (Seoul)",
-    "date": "2024-07",
-    "year": "2024",
-    "month": "07",
-    "doi": "10.3803/EnM.2024.1956",
-    "authors": "Cho S, Shin S, Lee S, Rhee Y, Kim HI, Hong N"
-  },
-  {
     "pmid": "39099483",
     "title": "Effect of Cost-Exemption Policy on Treatment Interruption in Patients With Newly Diagnosed Pulmonary Tuberculosis in South Korea",
     "journal": "Int J Health Policy Manag",
@@ -638,6 +628,16 @@
     "month": "07",
     "doi": "10.34172/ijhpm.8262",
     "authors": "Lee SC, Lee JK, Ji HW, Lee JM, Park SC, Han CH"
+  },
+  {
+    "pmid": "39015029",
+    "title": "Differential Impact of Subcutaneous and Visceral Fat on Bone Changes after Gastrectomy",
+    "journal": "Endocrinol Metab (Seoul)",
+    "date": "2024-07",
+    "year": "2024",
+    "month": "07",
+    "doi": "10.3803/EnM.2024.1956",
+    "authors": "Cho S, Shin S, Lee S, Rhee Y, Kim HI, Hong N"
   },
   {
     "pmid": "38986793",
@@ -750,16 +750,6 @@
     "authors": "Chung E, Leem AY, Chung KS, Kang YA, Park MS, Kim YS, Jang HJ, Lee SH"
   },
   {
-    "pmid": "38423161",
-    "title": "Plasma Levels of Polyunsaturated Fatty Acids and Adverse Kidney Outcomes",
-    "journal": "Am J Kidney Dis",
-    "date": "2024-02",
-    "year": "2024",
-    "month": "02",
-    "doi": "10.1053/j.ajkd.2023.12.020",
-    "authors": "Koh HB, Kim HW, Joo YS, Jung CY, Kim HJ, Chang TI, Park JT, Yoo TH, Kang SW, Han SH"
-  },
-  {
     "pmid": "38435351",
     "title": "Risk of incident chronic kidney disease among patients with urolithiasis: a nationwide longitudinal cohort study",
     "journal": "Clin Kidney J",
@@ -768,6 +758,16 @@
     "month": "02",
     "doi": "10.1093/ckj/sfae030",
     "authors": "Kim JY, Lee JK, Park JT, Chang TI"
+  },
+  {
+    "pmid": "38423161",
+    "title": "Plasma Levels of Polyunsaturated Fatty Acids and Adverse Kidney Outcomes",
+    "journal": "Am J Kidney Dis",
+    "date": "2024-02",
+    "year": "2024",
+    "month": "02",
+    "doi": "10.1053/j.ajkd.2023.12.020",
+    "authors": "Koh HB, Kim HW, Joo YS, Jung CY, Kim HJ, Chang TI, Park JT, Yoo TH, Kang SW, Han SH"
   },
   {
     "pmid": "38404998",
@@ -850,14 +850,14 @@
     "authors": "Kim J, Kim H, Park SH, Kang Y, Han K, Lee SH"
   },
   {
-    "pmid": "37899569",
-    "title": "Increased Risk of Hip Fracture in Patients with Acromegaly: A Nationwide Cohort Study in Korea",
-    "journal": "Endocrinol Metab (Seoul)",
+    "pmid": "37918066",
+    "title": "Randomised controlled trial of a behavioural intervention to reduce exposure to PMin patients with COPD",
+    "journal": "Environ Int",
     "date": "2023-10",
     "year": "2023",
     "month": "10",
-    "doi": "10.3803/EnM.2023.1782",
-    "authors": "Kim J, Hong N, Choi J, Moon JH, Kim EH, Lee EJ, Kim SG, Ku CR"
+    "doi": "10.1016/j.envint.2023.108286",
+    "authors": "Kang J, Kim HC, Jang Y, Lee JB, Lee JS, Oh YM, Ji HW, Jung JY, Lee SW"
   },
   {
     "pmid": "37903726",
@@ -870,14 +870,14 @@
     "authors": "Na HY, Kim JH, Kim H, Cho JY, Han HS, Jang ES, Kim JW, Jeong SH, Heo J, Kim JW, Kim JW, Ahn S"
   },
   {
-    "pmid": "37918066",
-    "title": "Randomised controlled trial of a behavioural intervention to reduce exposure to PMin patients with COPD",
-    "journal": "Environ Int",
+    "pmid": "37899569",
+    "title": "Increased Risk of Hip Fracture in Patients with Acromegaly: A Nationwide Cohort Study in Korea",
+    "journal": "Endocrinol Metab (Seoul)",
     "date": "2023-10",
     "year": "2023",
     "month": "10",
-    "doi": "10.1016/j.envint.2023.108286",
-    "authors": "Kang J, Kim HC, Jang Y, Lee JB, Lee JS, Oh YM, Ji HW, Jung JY, Lee SW"
+    "doi": "10.3803/EnM.2023.1782",
+    "authors": "Kim J, Hong N, Choi J, Moon JH, Kim EH, Lee EJ, Kim SG, Ku CR"
   },
   {
     "pmid": "37856923",
@@ -910,14 +910,14 @@
     "authors": "Lee HJ, Pak H, Han JJ, Chang MH"
   },
   {
-    "pmid": "37685746",
-    "title": "Clinical Link between the BARD Score at Diagnosis and Mortality during Follow-Up in Patients with Antineutrophil Cytoplasmic Antibody-Associated Vasculitis",
-    "journal": "J Clin Med",
+    "pmid": "37765021",
+    "title": "Impact of Concomitant Use of Proton Pump Inhibitors and Clopidogrel on Recurrent Stroke and Myocardial Infarction",
+    "journal": "Pharmaceuticals (Basel)",
     "date": "2023-08",
     "year": "2023",
     "month": "08",
-    "doi": "10.3390/jcm12175679",
-    "authors": "Lee TG, Park PG, Park YB, Huh JH, Lee SW"
+    "doi": "10.3390/ph16091213",
+    "authors": "Lee YK, Lim HS, Choi YI, Choe EJ, Kim S, You SC, Lee KJ, Kim Y, Park DH, Shin WG, Seo SI"
   },
   {
     "pmid": "37736592",
@@ -940,14 +940,24 @@
     "authors": "Whang JY, Park PG, Park YB, Huh JH, Lee SW"
   },
   {
-    "pmid": "37765021",
-    "title": "Impact of Concomitant Use of Proton Pump Inhibitors and Clopidogrel on Recurrent Stroke and Myocardial Infarction",
-    "journal": "Pharmaceuticals (Basel)",
+    "pmid": "37685746",
+    "title": "Clinical Link between the BARD Score at Diagnosis and Mortality during Follow-Up in Patients with Antineutrophil Cytoplasmic Antibody-Associated Vasculitis",
+    "journal": "J Clin Med",
     "date": "2023-08",
     "year": "2023",
     "month": "08",
-    "doi": "10.3390/ph16091213",
-    "authors": "Lee YK, Lim HS, Choi YI, Choe EJ, Kim S, You SC, Lee KJ, Kim Y, Park DH, Shin WG, Seo SI"
+    "doi": "10.3390/jcm12175679",
+    "authors": "Lee TG, Park PG, Park YB, Huh JH, Lee SW"
+  },
+  {
+    "pmid": "37601231",
+    "title": "A case series: patients with complicated popliteal artery entrapment syndrome successfully treated with a hybrid surgical and interventional treatment",
+    "journal": "Eur Heart J Case Rep",
+    "date": "2023-08",
+    "year": "2023",
+    "month": "08",
+    "doi": "10.1093/ehjcr/ytad362",
+    "authors": "Park MJ, Kim H, Kim DK, Jang JY"
   },
   {
     "pmid": "37596432",
@@ -978,16 +988,6 @@
     "month": "08",
     "doi": "10.1016/j.amjcard.2023.07.094",
     "authors": "Park JI, Lee SJ, Hong YJ, Yoo SY, Seo YS, Im E, Park JK, Lee JB, Lee YJ, Hong SJ, Ahn CM, Kim JS, Ko YG, Choi D, Hong MK, Kim BK"
-  },
-  {
-    "pmid": "37601231",
-    "title": "A case series: patients with complicated popliteal artery entrapment syndrome successfully treated with a hybrid surgical and interventional treatment",
-    "journal": "Eur Heart J Case Rep",
-    "date": "2023-08",
-    "year": "2023",
-    "month": "08",
-    "doi": "10.1093/ehjcr/ytad362",
-    "authors": "Park MJ, Kim H, Kim DK, Jang JY"
   },
   {
     "pmid": "37485051",
@@ -1030,16 +1030,6 @@
     "authors": "Park BK, Seo JH, Han JH, Lee KJ, Son KJ, Choi JK"
   },
   {
-    "pmid": "37233444",
-    "title": "Association between COVID-19 lockdown and sleep behaviors in Korean adolescents",
-    "journal": "Medicine (Baltimore)",
-    "date": "2023-05",
-    "year": "2023",
-    "month": "05",
-    "doi": "10.1097/MD.0000000000033809",
-    "authors": "Han CH, Lee S, Chung JH"
-  },
-  {
     "pmid": "37275374",
     "title": "New index using triglyceride glucose-body mass index for predicting mortality in patients with antineutrophil cytoplasmic antibody-associated vasculitis",
     "journal": "Front Med (Lausanne)",
@@ -1048,6 +1038,16 @@
     "month": "05",
     "doi": "10.3389/fmed.2023.1168016",
     "authors": "Park PG, Pyo JY, Ahn SS, Song JJ, Park YB, Huh JH, Lee SW"
+  },
+  {
+    "pmid": "37233444",
+    "title": "Association between COVID-19 lockdown and sleep behaviors in Korean adolescents",
+    "journal": "Medicine (Baltimore)",
+    "date": "2023-05",
+    "year": "2023",
+    "month": "05",
+    "doi": "10.1097/MD.0000000000033809",
+    "authors": "Han CH, Lee S, Chung JH"
   },
   {
     "pmid": "37230893",
@@ -1080,16 +1080,6 @@
     "authors": "Mun H, Cho K, Lee S, Choi Y, Oh SJ, Kim YS, Seo M, Park JY, Pak SB"
   },
   {
-    "pmid": "36991140",
-    "title": "Association between familial aggregation of chronic kidney disease and its incidence and progression",
-    "journal": "Sci Rep",
-    "date": "2023-03",
-    "year": "2023",
-    "month": "03",
-    "doi": "10.1038/s41598-023-32362-5",
-    "authors": "Kim JY, Chun SY, Lim H, Chang TI"
-  },
-  {
     "pmid": "37201093",
     "title": "Suspicious findings observed retrospectively on CT imaging performed before the diagnosis of pancreatic cancer",
     "journal": "J Gastrointest Oncol",
@@ -1098,6 +1088,16 @@
     "month": "03",
     "doi": "10.21037/jgo-22-863",
     "authors": "Park BK, Koh HD, Won SY, Cho YS, Seo JH, An C, Park S"
+  },
+  {
+    "pmid": "36991140",
+    "title": "Association between familial aggregation of chronic kidney disease and its incidence and progression",
+    "journal": "Sci Rep",
+    "date": "2023-03",
+    "year": "2023",
+    "month": "03",
+    "doi": "10.1038/s41598-023-32362-5",
+    "authors": "Kim JY, Chun SY, Lim H, Chang TI"
   },
   {
     "pmid": "36882795",
@@ -1120,16 +1120,6 @@
     "authors": "Jeon SB, Kim H, Chun KH, Oh J, Kwon C, Choi HK, Kim S, Kim HP, Kim IC, Yoo JY, Park SW, Kang SM, Lee SH"
   },
   {
-    "pmid": "36758345",
-    "title": "Impact of tuberculosis on the incidence of osteoporosis and osteoporotic fractures: a nationwide population-based cohort study",
-    "journal": "Public Health",
-    "date": "2023-02",
-    "year": "2023",
-    "month": "02",
-    "doi": "10.1016/j.puhe.2022.12.009",
-    "authors": "Park SH, Yoon SR, Nam JY, Ahn JY, Jeong SJ, Ku NS, Choi JY, Yeom JS, Kim JH"
-  },
-  {
     "pmid": "36788763",
     "title": "Primary hepatic mucosa-associated lymphoid tissue lymphoma mimicking hepatocellular carcinoma in a patient with chronic hepatitis B: a case report",
     "journal": "J Int Med Res",
@@ -1138,6 +1128,16 @@
     "month": "02",
     "doi": "10.1177/03000605231154399",
     "authors": "Koh HD, Choi JW, Kim EK, Park S, Kim MJ, Lee CK"
+  },
+  {
+    "pmid": "36758345",
+    "title": "Impact of tuberculosis on the incidence of osteoporosis and osteoporotic fractures: a nationwide population-based cohort study",
+    "journal": "Public Health",
+    "date": "2023-02",
+    "year": "2023",
+    "month": "02",
+    "doi": "10.1016/j.puhe.2022.12.009",
+    "authors": "Park SH, Yoon SR, Nam JY, Ahn JY, Jeong SJ, Ku NS, Choi JY, Yeom JS, Kim JH"
   },
   {
     "pmid": "36747358",
@@ -1210,6 +1210,26 @@
     "authors": "Marto JP, Strambo D, Ntaios G, Nguyen TN, Herzig R, Czlonkowska A, Demeestere J, Mansour OY, Salerno A, Wegener S, Baumgartner P, Cereda CW, Bianco G, Beyeler M, Arnold M, Carrera E, Machi P, Altersberger V, Bonati L, Gensicke H, Bolognese M, Peters N, Wetzel S, Magriço M, Ramos JN, Sargento-Freitas J, Machado R, Maia C, Machado E, Nunes AP, Ferreira P, Pinho E Melo T, Dias MC, Paula A, Correia MA, Castro P, Azevedo E, Albuquerque L, Alves JN, Ferreira-Pinto J, Meira T, Pereira L, Rodrigues M, Araujo AP, Rodrigues M, Rocha M, Pereira-Fonseca Â, Ribeiro L, Varela R, Malheiro S, Cappellari M, Zivelonghi C, Sajeva G, Zini A, Gentile M, Forlivesi S, Migliaccio L, Sessa M, La Gioia S, Pezzini A, Sangalli D, Zedde M, Pascarella R, Ferrarese C, Beretta S, Diamanti S, Schwarz G, Frisullo G, Marcheselli S, Seners P, Sabben C, Escalard S, Piotin M, Maïer B, Charbonnier G, Vuillier F, Legris L, Cuisenier P, Vodret FR, Marnat G, Liegey JS, Sibon I, Flottmann F, Broocks G, Gloyer NO, Bohmann FO, Schaefer JH, Nolte C, Audebert HJ, Siebert E, Sykora M, Lang W, Ferrari J, Mayer-Suess L, Knoflach M, Gizewski ER, Stolp J, Stolze LJ, Coutinho JM, Nederkoorn P, van den Wijngaard I, De Meris J, Lemmens R, De Raedt S, Vandervorst F, Rutgers MP, Guilmot A, Dusart A, Bellante F, Calleja-Castaño P, Ostos F, González-Ortega G, Martín-Jiménez P, García-Madrona S, Cruz-Culebras A, Vera R, Matute MC, Fuentes B, Alonso-de-Leciñana M, Rigual R, Díez-Tejedor E, Perez-Sanchez S, Montaner J, Díaz-Otero F, Pérez-de-la-Ossa N, Flores-Pina B, Muñoz-Narbona L, Chamorro A, Rodríguez-Vázquez A, Renú A, Ayo-Martin O, Hernández-Fernández F, Segura T, Tejada-Meza H, Sagarra-Mur D, Serrano-Ponz M, Hlaing T, See I, Simister R, Werring D, Kristoffersen ES, Nordanstig A, Jood K, Rentzos A, Šimůnek L, Krajíčková D, Krajina A, Mikulik R, Cviková M, Vinklárek J, Školoudík D, Roubec M, Hurtikova E, Hrubý R, Ostry S, Skoda O, Pernicka M, Jurak L, Eichlová Z, Jíra M, Kovar M, Panský M, Mencl P, Palouskova H, Tomek A, Janský P, Olšerová A, Sramek M, Havlicek R, Malý P, Trakal L, Fiksa J, Slovák M, Karlinski MA, Nowak M, Sienkiewicz-Jarosz H, Bochynska A, Wrona P, Homa T, Sawczynska K, Slowik A, Wlodarczyk E, Wiacek M, Tomaszewska-Lampart I, Sieczkowski B, Bartosik-Psujek H, Bilik M, Bandzarewicz A, Dorobek M, Zielinska-Turek J, Nowakowska-Kotas M, Obara K, Urbanowski P, Budrewicz S, Guziński M, Świtońska M, Rutkowska I, Sobieszak-Skura P, Labuz-Roszak BM, Debiec A, Staszewski J, Stępień A, Zwiernik J, Wasilewski G, Tiu C, Terecoasă EO, Radu RA, Negrila A, Dorobat B, Panea C, Tiu V, Petrescu S, Ozdemir A, Mahmoud M, El-Samahy H, Abdelkhalek H, Al-Hashel J, Ismail II, Salmeen A, Ghoreishi A, Sabetay SI, Gross H, Klein P, Abdalkader M, Jabbour P, El Naamani K, Tjoumakaris S, Abbas R, Mohamed GA, Chebl A, Min J, Hovingh M, Tsai JP, Khan M, Nalleballe K, Onteddu S, Masoud H, Michael M, Kaur N, Maali L, Abraham MG, Khandelwal P, Bach I, Ong M, Babici D, Khawaja AM, Hakemi M, Rajamani K, Cano-Nigenda V, Arauz A, Amaya P, Llanos N, Arango A, Vences MÁ, Barrientos Guerra JD, Caetano R, Martins RT, Scollo SD, Yalung PM, Nagendra S, Gaikwad A, Seo KD, Georgiopoulos G, Nogueira RG, Michel P"
   },
   {
+    "pmid": "36257718",
+    "title": "Global Impact of the COVID-19 Pandemic on Stroke Volumes and Cerebrovascular Events: A 1-Year Follow-up.",
+    "journal": "Neurology",
+    "date": "2022-10",
+    "year": "2022",
+    "month": "10",
+    "doi": "10.1212/WNL.0000000000201426",
+    "authors": "Nguyen TN, Qureshi MM, Klein P, Yamagami H, Mikulik R, Czlonkowska A, Abdalkader M, Sedova P, Sathya A, Lo HC, Mansour OY, Vanguru HR, Lesaine E, Tsivgoulis G, Loochtan AI, Demeestere J, Uchino K, Inoa V, Goyal N, Charidimou A, Siegler JE, Yaghi S, Aguiar de Sousa D, Mohammaden MH, Haussen DC, Kristoffersen ES, Lereis VP, Scollo SD, Campbell BCV, Ma A, Thomas JO, Parsons MW, Singhal S, Slater L, Tomazini Martins R, Enzinger C, Gattringer T, Rahman A, Bonnet T, Ligot N, De Raedt S, Lemmens R, Vanacker P, Vandervorst F, Conforto AB, Hidalgo RCT, de Oliveira Neves L, Martins RT, Mora Cuervo DL, Rebello LC, Santiago IB, Lameirinhas da Silva I, Sakelarova T, Kalpachki R, Alexiev F, Catanese L, Cora EA, Goyal M, Hill MD, Kelly ME, Khosravani H, Lavoie P, Peeling L, Pikula A, Rivera R, Chen H, Chen Y, Huo X, Miao Z, Yang S, Bedekovic MR, Bralic M, Budincevic H, Corredor-Quintero AB, Lara-Sarabia OE, Cabal M, Tenora D, Fibrich P, Herzig R, Hlaváčová H, Hrabanovska E, Hlinovsky D, Jurak L, Kadlcikova J, Karpowicz I, Klecka L, Kovar M, Lauer D, Neumann J, Palouskova H, Reiser M, Rekova P, Rohan V, Skoda O, Škorňa M, Sobotková L, Sramek M, Zakova L, Christensen H, Drenck N, Iversen HK, Truelsen TC, Wienecke T, Sobh K, Ylikotila P, Alpay K, Strbian D, Bernady P, Casenave P, Dan M, Faucheux J, Gentric J, Magro E, Sabben C, Reiner P, Rouanet F, Bohmann FO, Boskamp S, Mbroh J, Nagel S, Nolte CH, Ringleb PA, Rosenkranz M, Poli S, Thomalla G, Karapanayiotides T, Koutroulou I, Kargiotis O, Palaiodimou L, Barrientos Guerra JD, Huded V, Menon B, Nagendra S, Prajapati C, Sylaja PN, Krishna Pramana NA, Sani AF, Ghoreishi A, Farhoudi M, Hokmabadi ES, Raya TA, Kalmanovich SA, Ronen L, Sabetay SI, Acampa M, Adami A, Castellan L, Longoni M, Ornello R, Renieri L, Bigliani CR, Romoli M, Sacco S, Salmaggi A, Sangalli D, Zini A, Doijiri R, Fukuda H, Fujinaka T, Fujita K, Imamura H, Sakai N, Kanamaru T, Kimura N, Kono R, Miyake K, Sakaguchi M, Sakai K, Sonoda K, Todo K, Miyashita F, Tokuda N, Matsumaru Y, Matsumoto S, Ohara N, Shindo S, Takenobu Y, Yoshimoto T, Toyoda K, Uwatoko T, Yagita Y, Yamada T, Yamamoto N, Yamamoto R, Yazawa Y, Sugiura Y, Waweru PK, Baek J, Lee SB, Seo K, Sohn S, Arsovska AA, Chan YC, Wan Zaidi WA, Jaafar AS, Gongora-Rivera F, Martinez-Marino M, Infante-Valenzuela A, Groppa S, Leahu P, Coutinho JM, Rinkel LA, Dippel DWJ, van Dam-Nolen DHK, Ranta A, Wu TY, Adebayo TT, Bello AH, Nwazor EO, Sunmonu TA, Wahab KW, Ronning OM, Sandset EC, Al Hashmi AM, Ahmad S, Rashid U, Rodriguez-Kadota L, Vences MÁ, Yalung PM, Hao Dy JS, Pineda-Franks MC, Co CO, Brola W, Debiec A, Dorobek M, Karlinski MA, Labuz-Roszak BM, Lasek-Bal A, Sienkiewicz-Jarosz H, Staszewski J, Sobolewski P, Wiacek M, Zielinska-Turek J, Araujo AP, Rocha M, Castro P, Cruz VT, Ferreira PV, Ferreira P, Nunes AP, Fonseca L, Marto JP, Pinho E Melo T, Rodrigues M, Silva ML, Dimitriade A, Falup-Pecurariu C, Hamid MA, Venketasubramanian N, Krastev G, Mako M, Ayo-Martin O, Hernández-Fernández F, Blasco J, Rodríguez-Vázquez A, Cruz-Culebras A, Moniche F, Montaner J, Perez-Sanchez S, García Sánchez MJ, Guillán Rodríguez M, Jood K, Nordanstig A, Mazya MV, Moreira TTP, Bernava G, Beyeler M, Bolognese M, Carrera E, Dobrocky T, Karwacki GM, Keller E, Hsieh CY, Boonyakarnkul S, Churojana A, Aykac O, Ozdemir AÃ, Bajrami A, Senadim S, Hussain SI, John S, Banerjee S, Kwan J, Krishnan K, Lenthall R, Matthews A, Wong K, Zhang L, Altschul D, Asif KS, Bahiru Z, Below K, Biller J, Ruland S, Chaudry SA, Chen M, Chebl A, Cibulka J, Cistrunk L, Clark J, Colasurdo M, Czap A, de Havenon A, D'Amato S, Dharmadhikari S, Grimmett KB, Dmytriw AA, Etherton MR, Ezepue C, Farooqui M, Feske SK, Fink L, Gasimova U, Guzik AK, Hakemi M, Hovingh M, Khan M, Jillela D, Kan PT, Khatri R, Khawaja AM, Khoury NN, Kiley NL, Kim BS, Kolikonda MK, Kuhn AL, Lara S, Linares G, Linfante I, Lukovits TG, Lycan S, Male SS, Maali L, Mancin J, Masoud H, Mohamed GA, Monteiro A, Nahab F, Nalleballe K, Ortega-Gutierrez S, Puri AS, Radaideh Y, Rahangdale RH, Rai A, Ramakrishnan P, Reddy AB, Rojas-Soto DM, Romero JR, Rost NS, Rothstein A, Omran SS, Sheth SA, Siddiqui AH, Starosciak AK, Tarlov NE, Taylor RA, Wang MJ, Wolfe J, Wong K, Le HV, Nguyen QV, Pham TN, Nguyen TT, Phan HT, Ton MD, Fischer U, Michel P, Strambo D, Martins SO, Zaidat OO, Nogueira RG, and the SVIN COVID-19 Global Stroke Registry"
+  },
+  {
+    "pmid": "36217154",
+    "title": "Association between CYP2D6 phenotype and recurrence of Plasmodium vivax infection in south Korean patients.",
+    "journal": "Malar J",
+    "date": "2022-10",
+    "year": "2022",
+    "month": "10",
+    "doi": "10.1186/s12936-022-04311-6",
+    "authors": "Choi S, Choi H, Park SY, Kwak YG, Song JE, Shin SY, Baek JH, Shin H, Cho S, Lee S, Kwon J, Park S, Kim M, Oh HS, Kim YC, Kim MJ, Yeom J"
+  },
+  {
     "pmid": "36107568",
     "title": ": Short-term effects of exposure to particulate matter on hospital admissions for asthma and chronic obstructive pulmonary disease",
     "journal": "Medicine (Baltimore)",
@@ -1218,26 +1238,6 @@
     "month": "09",
     "doi": "10.1097/MD.0000000000030165",
     "authors": "Han CH, Pak H, Lee JM, Chung JH"
-  },
-  {
-    "pmid": "35942556",
-    "title": "The Effect of Chronic Disease Management Program on the Risk of Complications in Patients With Hypertension in Korea",
-    "journal": "J Korean Med Sci",
-    "date": "2022-08",
-    "year": "2022",
-    "month": "08",
-    "doi": "10.3346/jkms.2022.37.e243",
-    "authors": "Lee SA, Park H, Kim W, Song SO, Lim H, Chun SY"
-  },
-  {
-    "pmid": "35945735",
-    "title": "Transcatheter arterial embolization for gastrointestinal bleeding: Clinical outcomes and prognostic factors predicting mortality",
-    "journal": "Medicine (Baltimore)",
-    "date": "2022-08",
-    "year": "2022",
-    "month": "08",
-    "doi": "10.1097/MD.0000000000029342",
-    "authors": "Lee S, Kim T, Han SC, Pak H, Jeon HH"
   },
   {
     "pmid": "35991017",
@@ -1250,14 +1250,24 @@
     "authors": "Sohn M, Koo H, Choi H, Cho H, Han E"
   },
   {
-    "pmid": "35887916",
-    "title": "Clinical Significance of Antineutrophil Cytoplasmic Antibody Positivity in Patients Infected with SARS-CoV-2",
-    "journal": "J Clin Med",
-    "date": "2022-07",
+    "pmid": "35945735",
+    "title": "Transcatheter arterial embolization for gastrointestinal bleeding: Clinical outcomes and prognostic factors predicting mortality",
+    "journal": "Medicine (Baltimore)",
+    "date": "2022-08",
     "year": "2022",
-    "month": "07",
-    "doi": "10.3390/jcm11144152",
-    "authors": "Lee LE, Jeong W, Park YB, Jeong SJ, Lee SW"
+    "month": "08",
+    "doi": "10.1097/MD.0000000000029342",
+    "authors": "Lee S, Kim T, Han SC, Pak H, Jeon HH"
+  },
+  {
+    "pmid": "35942556",
+    "title": "The Effect of Chronic Disease Management Program on the Risk of Complications in Patients With Hypertension in Korea",
+    "journal": "J Korean Med Sci",
+    "date": "2022-08",
+    "year": "2022",
+    "month": "08",
+    "doi": "10.3346/jkms.2022.37.e243",
+    "authors": "Lee SA, Park H, Kim W, Song SO, Lim H, Chun SY"
   },
   {
     "pmid": "35909546",
@@ -1268,6 +1278,16 @@
     "month": "07",
     "doi": "10.3389/fendo.2022.937394",
     "authors": "Oh JH, Kang CW, Wang EK, Nam JH, Lee S, Park KH, Lee EJ, Cho A, Ku CR"
+  },
+  {
+    "pmid": "35887916",
+    "title": "Clinical Significance of Antineutrophil Cytoplasmic Antibody Positivity in Patients Infected with SARS-CoV-2",
+    "journal": "J Clin Med",
+    "date": "2022-07",
+    "year": "2022",
+    "month": "07",
+    "doi": "10.3390/jcm11144152",
+    "authors": "Lee LE, Jeong W, Park YB, Jeong SJ, Lee SW"
   },
   {
     "pmid": "35872769",
@@ -1350,16 +1370,6 @@
     "authors": "Chung MK, Lee CH, Park JS"
   },
   {
-    "pmid": "35380987",
-    "title": "Revisiting growth hormone nadir cut-offs for remission in patients with acromegaly",
-    "journal": "Eur J Endocrinol",
-    "date": "2022-04",
-    "year": "2022",
-    "month": "04",
-    "doi": "10.1530/EJE-21-1094",
-    "authors": "Kim J, Hwang YA, Park YW, Moon JH, Kim EH, Hong JW, Lee EJ, Ku CR"
-  },
-  {
     "pmid": "35444288",
     "title": "Lifestyle, body mass index, diabetes, and the risk of pancreatic cancer in a nationwide population-based cohort study with 7.4 million Korean subjects",
     "journal": "Br J Cancer",
@@ -1370,6 +1380,16 @@
     "authors": "Park BK, Seo JH, Chung JB, Choi JK"
   },
   {
+    "pmid": "35380987",
+    "title": "Revisiting growth hormone nadir cut-offs for remission in patients with acromegaly",
+    "journal": "Eur J Endocrinol",
+    "date": "2022-04",
+    "year": "2022",
+    "month": "04",
+    "doi": "10.1530/EJE-21-1094",
+    "authors": "Kim J, Hwang YA, Park YW, Moon JH, Kim EH, Hong JW, Lee EJ, Ku CR"
+  },
+  {
     "pmid": "35344650",
     "title": "Impacts of Subtype on Clinical Feature and Outcome of Male Breast Cancer: Multicenter Study in Korea (KCSG BR16-09)",
     "journal": "Cancer Res Treat",
@@ -1378,16 +1398,6 @@
     "month": "03",
     "doi": "10.4143/crt.2021.1561",
     "authors": "Lee J, Lee KS, Sim SH, Chae H, Sohn J, Kim GM, Lee KH, Kang SH, Jung KH, Jeong JH, Byun JH, Koh SJ, Lee KE, Lim S, Kim HJ, Won HS, Park HS, Lee GJ, Hong S, Baek SK, Lee SI, Choi MY, Woo IS"
-  },
-  {
-    "pmid": "34552040",
-    "title": "Risk Factors for Lymph Node Metastasis and Oncologic Outcomes in Small Rectal Neuroendocrine Tumors with Lymphovascular Invasion",
-    "journal": "Gut Liver",
-    "date": "2022-03",
-    "year": "2022",
-    "month": "03",
-    "doi": "10.5009/gnl20364",
-    "authors": "Nam SJ, Kim BC, Chang HJ, Jeon HH, Kim J, Kim SY"
   },
   {
     "pmid": "35336436",
@@ -1410,6 +1420,16 @@
     "authors": "Chun KH, Oh J, Hong YJ, Yu HT, Lee CJ, Kim TH, Joung B, Pak HN, Lee MH, Kim YJ, Kang SM"
   },
   {
+    "pmid": "34552040",
+    "title": "Risk Factors for Lymph Node Metastasis and Oncologic Outcomes in Small Rectal Neuroendocrine Tumors with Lymphovascular Invasion",
+    "journal": "Gut Liver",
+    "date": "2022-03",
+    "year": "2022",
+    "month": "03",
+    "doi": "10.5009/gnl20364",
+    "authors": "Nam SJ, Kim BC, Chang HJ, Jeon HH, Kim J, Kim SY"
+  },
+  {
     "pmid": "35846029",
     "title": "Single cell proteogenomic sequencing identifies a relapse-fated AML subclone carrying-ITD with CN-LOH at chr13q",
     "journal": "EJHaem",
@@ -1418,6 +1438,16 @@
     "month": "02",
     "doi": "10.1002/jha2.390",
     "authors": "Kim T, Lee H, Capo-Chichi JM, Chang MH, Yoo YS, Basi G, Ketela T, Smith AC, Tierens A, Zhang Z, Minden MD, Kim DDH"
+  },
+  {
+    "pmid": "36533883",
+    "title": "Cardiovascular and cerebrovascular-associated mortality in patients with preceding bronchiectasis exacerbation",
+    "journal": "Ther Adv Respir Dis",
+    "date": "2022-01",
+    "year": "2022",
+    "month": "01",
+    "doi": "10.1177/17534666221144206",
+    "authors": "Lee SC, Son KJ, Hoon Han C, Park SC, Jung JY"
   },
   {
     "pmid": "35014229",
@@ -1440,26 +1470,6 @@
     "authors": "Lee JM, Kim HS, Kim A, Chang YS, Lee JG, Cho J, Kim EY"
   },
   {
-    "pmid": "36533883",
-    "title": "Cardiovascular and cerebrovascular-associated mortality in patients with preceding bronchiectasis exacerbation",
-    "journal": "Ther Adv Respir Dis",
-    "date": "2022-01",
-    "year": "2022",
-    "month": "01",
-    "doi": "10.1177/17534666221144206",
-    "authors": "Lee SC, Son KJ, Hoon Han C, Park SC, Jung JY"
-  },
-  {
-    "pmid": "34877670",
-    "title": "Survival outcomes of patients with nonsmall cell lung cancer concomitantly receiving proton pump inhibitors and immune checkpoint inhibitors",
-    "journal": "Int J Cancer",
-    "date": "2021-12",
-    "year": "2021",
-    "month": "12",
-    "doi": "10.1002/ijc.33892",
-    "authors": "Baek YH, Kang EJ, Hong S, Park S, Kim JH, Shin JY"
-  },
-  {
     "pmid": "35129316",
     "title": "Prasugrel-based De-Escalation of Dual Antiplatelet Therapy After Percutaneous Coronary Intervention in Patients With STEMI",
     "journal": "Korean Circ J",
@@ -1480,6 +1490,16 @@
     "authors": "Lee KS, Shin DG, Hwang JH, Kim R, Han CH, Yoo J"
   },
   {
+    "pmid": "34877670",
+    "title": "Survival outcomes of patients with nonsmall cell lung cancer concomitantly receiving proton pump inhibitors and immune checkpoint inhibitors",
+    "journal": "Int J Cancer",
+    "date": "2021-12",
+    "year": "2021",
+    "month": "12",
+    "doi": "10.1002/ijc.33892",
+    "authors": "Baek YH, Kang EJ, Hong S, Park S, Kim JH, Shin JY"
+  },
+  {
     "pmid": "34844402",
     "title": "Association between Inhaled Corticosteroid Use and SARS-CoV-2 Infection: A Nationwide Population-Based Study in South Korea",
     "journal": "Tuberc Respir Dis (Seoul)",
@@ -1488,16 +1508,6 @@
     "month": "11",
     "doi": "10.4046/trd.2021.0102",
     "authors": "Lee SC, Son KJ, Han CH, Jung JY, Park SC"
-  },
-  {
-    "pmid": "33827990",
-    "title": "Efficacy and Safety of Rebamipide versus Its New Formulation, AD-203, in Patients with Erosive Gastritis: A Randomized, Double-Blind, Active Control, Noninferiority, Multicenter, Phase 3 Study",
-    "journal": "Gut Liver",
-    "date": "2021-11",
-    "year": "2021",
-    "month": "11",
-    "doi": "10.5009/gnl20338",
-    "authors": "Kim GH, Lee HL, Joo MK, Park HJ, Jung SW, Lee OJ, Kim H, Chun HJ, Lee ST, Kim JW, Jeon HH, Chung IK, Kim HS, Lee DH, Kim KO, Lim YJ, Park SJ, Cho SJ, Kim BW, Ko KH, Jeon SW, Kim JG, Sung IK, Kim TN, Sung JK, Park JJ"
   },
   {
     "pmid": "34774670",
@@ -1530,6 +1540,16 @@
     "authors": "Sung M, Hahn S, Han CH, Lee JM, Lee J, Yoo J, Heo J, Kim YS, Chung KS"
   },
   {
+    "pmid": "34734508",
+    "title": "Long-Term Prognosis of Asthma-Bronchiectasis Overlapped Patients: A Nationwide Population-Based Cohort Study",
+    "journal": "Allergy Asthma Immunol Res",
+    "date": "2021-11",
+    "year": "2021",
+    "month": "11",
+    "doi": "10.4168/aair.2021.13.6.908",
+    "authors": "Lee SC, Son KJ, Park HJ, Jung JY, Park SC, Jeong SH, Park JW"
+  },
+  {
     "pmid": "34719392",
     "title": "Real-world evidence on the strategy of olmesartan-based triple single-pill combination in Korean hypertensive patients: a prospective, multicenter, observational study (RESOLVE-PRO)",
     "journal": "Clin Hypertens",
@@ -1540,14 +1560,14 @@
     "authors": "Sohn IS, Ihm SH, Kim GH, Park SM, Hong BK, Lee CH, Lee SH, Chang DI, Joo SP, Lee SC, Lee YH, Jeon DW, Jung KT, Rhee SJ, Cho YJ, Kim CJ"
   },
   {
-    "pmid": "34734508",
-    "title": "Long-Term Prognosis of Asthma-Bronchiectasis Overlapped Patients: A Nationwide Population-Based Cohort Study",
-    "journal": "Allergy Asthma Immunol Res",
+    "pmid": "33827990",
+    "title": "Efficacy and Safety of Rebamipide versus Its New Formulation, AD-203, in Patients with Erosive Gastritis: A Randomized, Double-Blind, Active Control, Noninferiority, Multicenter, Phase 3 Study",
+    "journal": "Gut Liver",
     "date": "2021-11",
     "year": "2021",
     "month": "11",
-    "doi": "10.4168/aair.2021.13.6.908",
-    "authors": "Lee SC, Son KJ, Park HJ, Jung JY, Park SC, Jeong SH, Park JW"
+    "doi": "10.5009/gnl20338",
+    "authors": "Kim GH, Lee HL, Joo MK, Park HJ, Jung SW, Lee OJ, Kim H, Chun HJ, Lee ST, Kim JW, Jeon HH, Chung IK, Kim HS, Lee DH, Kim KO, Lim YJ, Park SJ, Cho SJ, Kim BW, Ko KH, Jeon SW, Kim JG, Sung IK, Kim TN, Sung JK, Park JJ"
   },
   {
     "pmid": "32841322",
@@ -1560,24 +1580,14 @@
     "authors": "Jung CY, Park H, Kim DW, Lim H, Chang JH, Choi YJ, Kim SW, Chang TI"
   },
   {
-    "pmid": "34313011",
-    "title": "Prevalence and clinical characteristics of fulminant type 1 diabetes mellitus in Korean adults: A multi-institutional joint research",
-    "journal": "J Diabetes Investig",
+    "pmid": "34474518",
+    "title": "Lower High-Density Lipoprotein Cholesterol Concentration Is Independently Associated with Greater Future Accumulation of Intra-Abdominal Fat",
+    "journal": "Endocrinol Metab (Seoul)",
     "date": "2021-08",
     "year": "2021",
     "month": "08",
-    "doi": "10.1111/jdi.13638",
-    "authors": "Song SO, Yun JS, Ko SH, Ahn YB, Kim BY, Kim CH, Jeon JY, Kim DJ, Seo DH, Kim SH, Noh JH, Lee DY, Kim KS, Kim SK"
-  },
-  {
-    "pmid": "33891697",
-    "title": "Smoking and the Risk of Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) Infection",
-    "journal": "Nicotine Tob Res",
-    "date": "2021-08",
-    "year": "2021",
-    "month": "08",
-    "doi": "10.1093/ntr/ntab079",
-    "authors": "Lee SC, Son KJ, Han CH, Park SC"
+    "doi": "10.3803/EnM.2021.1130",
+    "authors": "Song SO"
   },
   {
     "pmid": "34474517",
@@ -1590,14 +1600,14 @@
     "authors": "Nam JY"
   },
   {
-    "pmid": "34474518",
-    "title": "Lower High-Density Lipoprotein Cholesterol Concentration Is Independently Associated with Greater Future Accumulation of Intra-Abdominal Fat",
-    "journal": "Endocrinol Metab (Seoul)",
+    "pmid": "34313011",
+    "title": "Prevalence and clinical characteristics of fulminant type 1 diabetes mellitus in Korean adults: A multi-institutional joint research",
+    "journal": "J Diabetes Investig",
     "date": "2021-08",
     "year": "2021",
     "month": "08",
-    "doi": "10.3803/EnM.2021.1130",
-    "authors": "Song SO"
+    "doi": "10.1111/jdi.13638",
+    "authors": "Song SO, Yun JS, Ko SH, Ahn YB, Kim BY, Kim CH, Jeon JY, Kim DJ, Seo DH, Kim SH, Noh JH, Lee DY, Kim KS, Kim SK"
   },
   {
     "pmid": "34296554",
@@ -1610,14 +1620,24 @@
     "authors": "Choi JW"
   },
   {
-    "pmid": "34370930",
-    "title": "Mixed- versus predilution hemodiafiltration effects on convection volume and small and middle molecule clearance in hemodialysis patients: a prospective randomized controlled trial",
-    "journal": "Kidney Res Clin Pract",
+    "pmid": "33891697",
+    "title": "Smoking and the Risk of Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) Infection",
+    "journal": "Nicotine Tob Res",
+    "date": "2021-08",
+    "year": "2021",
+    "month": "08",
+    "doi": "10.1093/ntr/ntab079",
+    "authors": "Lee SC, Son KJ, Han CH, Park SC"
+  },
+  {
+    "pmid": "37475998",
+    "title": "Clinical Study Using Healthcare Claims Database",
+    "journal": "J Rheum Dis",
     "date": "2021-07",
     "year": "2021",
     "month": "07",
-    "doi": "10.23876/j.krcp.21.044",
-    "authors": "Park KS, Kang EW, Chang TI, Jo W, Park JT, Yoo TH, Kang SW, Han SH"
+    "doi": "10.4078/jrd.2021.28.3.119",
+    "authors": "Park JS, Lee CH"
   },
   {
     "pmid": "34900286",
@@ -1628,6 +1648,26 @@
     "month": "07",
     "doi": "10.1007/s40201-021-00709-7",
     "authors": "Han CH, Pak H, Chung JH"
+  },
+  {
+    "pmid": "34430568",
+    "title": "Risk factors associated with surveillance loss after endoscopic submucosal dissection in patients with gastric neoplasm",
+    "journal": "Ann Transl Med",
+    "date": "2021-07",
+    "year": "2021",
+    "month": "07",
+    "doi": "10.21037/atm-21-891",
+    "authors": "Lee M, Kim K, Lee YK, Park BK, Jeon HH"
+  },
+  {
+    "pmid": "34370930",
+    "title": "Mixed- versus predilution hemodiafiltration effects on convection volume and small and middle molecule clearance in hemodialysis patients: a prospective randomized controlled trial",
+    "journal": "Kidney Res Clin Pract",
+    "date": "2021-07",
+    "year": "2021",
+    "month": "07",
+    "doi": "10.23876/j.krcp.21.044",
+    "authors": "Park KS, Kang EW, Chang TI, Jo W, Park JT, Yoo TH, Kang SW, Han SH"
   },
   {
     "pmid": "34252506",
@@ -1650,26 +1690,6 @@
     "authors": "Chung MK, Lee CH, Park JS, Lim H, Lee J"
   },
   {
-    "pmid": "34430568",
-    "title": "Risk factors associated with surveillance loss after endoscopic submucosal dissection in patients with gastric neoplasm",
-    "journal": "Ann Transl Med",
-    "date": "2021-07",
-    "year": "2021",
-    "month": "07",
-    "doi": "10.21037/atm-21-891",
-    "authors": "Lee M, Kim K, Lee YK, Park BK, Jeon HH"
-  },
-  {
-    "pmid": "37475998",
-    "title": "Clinical Study Using Healthcare Claims Database",
-    "journal": "J Rheum Dis",
-    "date": "2021-07",
-    "year": "2021",
-    "month": "07",
-    "doi": "10.4078/jrd.2021.28.3.119",
-    "authors": "Park JS, Lee CH"
-  },
-  {
     "pmid": "34187409",
     "title": "Prediction of the risk of developing hepatocellular carcinoma in health screening examinees: a Korean cohort study",
     "journal": "BMC Cancer",
@@ -1678,16 +1698,6 @@
     "month": "06",
     "doi": "10.1186/s12885-021-08498-w",
     "authors": "Choi JW"
-  },
-  {
-    "pmid": "33949107",
-    "title": "Depression, chronic obstructive pulmonary disease, and healthcare utilization: Results from the Korean Longitudinal Study of Aging (KLoSA)",
-    "journal": "Clin Respir J",
-    "date": "2021-06",
-    "year": "2021",
-    "month": "06",
-    "doi": "10.1111/crj.13384",
-    "authors": "Han CH, Chung JH, Lee S"
   },
   {
     "pmid": "34116295",
@@ -1710,6 +1720,16 @@
     "authors": "Hong S"
   },
   {
+    "pmid": "33949107",
+    "title": "Depression, chronic obstructive pulmonary disease, and healthcare utilization: Results from the Korean Longitudinal Study of Aging (KLoSA)",
+    "journal": "Clin Respir J",
+    "date": "2021-06",
+    "year": "2021",
+    "month": "06",
+    "doi": "10.1111/crj.13384",
+    "authors": "Han CH, Chung JH, Lee S"
+  },
+  {
     "pmid": "34045533",
     "title": "Suggestion of a simpler and faster influenza-like illness surveillance system using 2014-2018 claims data in Korea",
     "journal": "Sci Rep",
@@ -1720,16 +1740,6 @@
     "authors": "Choi H"
   },
   {
-    "pmid": "34003323",
-    "title": "Sex disparities and adverse cardiovascular and kidney outcomes in patients with chronic kidney disease: results from the KNOW-CKD",
-    "journal": "Clin Res Cardiol",
-    "date": "2021-05",
-    "year": "2021",
-    "month": "05",
-    "doi": "10.1007/s00392-021-01872-5",
-    "authors": "Chang TI, Kang EW"
-  },
-  {
     "pmid": "34010616",
     "title": "Aspirin versus clopidogrel for chronic maintenance monotherapy after percutaneous coronary intervention (HOST-EXAM): an investigator-initiated, prospective, randomised, open-label, multicentre trial",
     "journal": "Lancet",
@@ -1738,6 +1748,16 @@
     "month": "05",
     "doi": "10.1016/S0140-6736(21)01063-1",
     "authors": "Jeon DW"
+  },
+  {
+    "pmid": "34003323",
+    "title": "Sex disparities and adverse cardiovascular and kidney outcomes in patients with chronic kidney disease: results from the KNOW-CKD",
+    "journal": "Clin Res Cardiol",
+    "date": "2021-05",
+    "year": "2021",
+    "month": "05",
+    "doi": "10.1007/s00392-021-01872-5",
+    "authors": "Chang TI, Kang EW"
   },
   {
     "pmid": "33947166",
@@ -1760,16 +1780,6 @@
     "authors": "Ku EJ, Kim KJ, Kim JH, Kim MK, Ahn CH, Lee KA, Lee SH, Lee YB, Park KH, Choi YM, Hong N, Hong AR, Kang SW, Park BK, Seong MW, Kim M, Jung KC, Jung CK, Cho YS, Paeng JC, Kim JH, Ryu OH, Rhee Y, Kim CH, Lee EJ"
   },
   {
-    "pmid": "33765620",
-    "title": "Body mass index as a predictor of mortality in bronchiectasis: A nationwide population-based study",
-    "journal": "Respir Med",
-    "date": "2021-03",
-    "year": "2021",
-    "month": "03",
-    "doi": "10.1016/j.rmed.2021.106370",
-    "authors": "Lee JM, Lee SA, Han CH, Lee SM, Kim CJ, Lee SC, Park SC"
-  },
-  {
     "pmid": "35769622",
     "title": "The impact of prophylactic ureteral stenting during kidney transplantation on postoperative surgical outcomes",
     "journal": "Korean J Transplant",
@@ -1780,6 +1790,26 @@
     "authors": "Park J, Lee SY, Lee HS, Shin SK, Kim TH"
   },
   {
+    "pmid": "33766997",
+    "title": "Global Impact of COVID-19 on Stroke Care and IV Thrombolysis.",
+    "journal": "Neurology",
+    "date": "2021-03",
+    "year": "2021",
+    "month": "03",
+    "doi": "10.1212/WNL.0000000000011885",
+    "authors": "Nogueira RG, Qureshi MM, Abdalkader M, Martins SO, Yamagami H, Qiu Z, Mansour OY, Sathya A, Czlonkowska A, Tsivgoulis G, Aguiar de Sousa D, Demeestere J, Mikulik R, Vanacker P, Siegler JE, Kõrv J, Biller J, Liang CW, Sangha NS, Zha AM, Czap AL, Holmstedt CA, Turan TN, Ntaios G, Malhotra K, Tayal A, Loochtan A, Ranta A, Mistry EA, Alexandrov AW, Huang DY, Yaghi S, Raz E, Sheth SA, Mohammaden MH, Frankel M, Bila Lamou EG, Aref HM, Elbassiouny A, Hassan F, Menecie T, Mustafa W, Shokri HM, Roushdy T, Sarfo FS, Alabi TO, Arabambi B, Nwazor EO, Sunmonu TA, Wahab K, Yaria J, Mohammed HH, Adebayo PB, Riahi AD, Sassi SB, Gwaunza L, Ngwende GW, Sahakyan D, Rahman A, Ai Z, Bai F, Duan Z, Hao Y, Huang W, Li G, Li W, Liu G, Luo J, Shang X, Sui Y, Tian L, Wen H, Wu B, Yan Y, Yuan Z, Zhang H, Zhang J, Zhao W, Zi W, Leung TW, Chugh C, Huded V, Menon B, Pandian JD, Sylaja PN, Usman FS, Farhoudi M, Hokmabadi ES, Horev A, Reznik A, Sivan Hoffmann R, Ohara N, Sakai N, Watanabe D, Yamamoto R, Doijiri R, Tokuda N, Yamada T, Terasaki T, Yazawa Y, Uwatoko T, Dembo T, Shimizu H, Sugiura Y, Miyashita F, Fukuda H, Miyake K, Shimbo J, Sugimura Y, Yagita Y, Takenobu Y, Matsumaru Y, Yamada S, Kono R, Kanamaru T, Yamazaki H, Sakaguchi M, Todo K, Yamamoto N, Sonoda K, Yoshida T, Hashimoto H, Nakahara I, Kondybayeva A, Faizullina K, Kamenova S, Zhanuzakov M, Baek J, Hwang Y, Lee JS, Lee SB, Moon J, Park H, Seo JH, Seo K, Sohn SI, Young CJ, Ahdab R, Wan Zaidi WA, Aziz ZA, Basri HB, Chung LW, Ibrahim AB, Ibrahim KA, Looi I, Tan WY, Yahya NW, Groppa S, Leahu P, Al Hashmi AM, Imam YZ, Akhtar N, Pineda-Franks MC, Co CO, Kandyba D, Alhazzani A, Al-Jehani H, Tham CH, Mamauag MJ, Venketasubramanian N, Chen C, Tang S, Churojana A, Akil E, Aykaç Ö, Ozdemir AO, Giray S, Hussain SI, John S, Le Vu H, Tran AD, Nguyen HH, Nhu Pham T, Nguyen TH, Nguyen TQ, Gattringer T, Enzinger C, Killer-Oberpfalzer M, Bellante F, De Blauwe S, Vanhooren G, De Raedt S, Dusart A, Lemmens R, Ligot N, Pierre Rutgers M, Yperzeele L, Alexiev F, Sakelarova T, Bedeković MR, Budincevic H, Cindric I, Hucika Z, Ozretic D, Saric MS, Pfeifer F, Karpowic I, Cernik D, Sramek M, Skoda M, Hlavacova H, Klecka L, Koutny M, Vaclavik D, Skoda O, Fiksa J, Hanelova K, Nevsimalova M, Rezek R, Prochazka P, Krejstova G, Neumann J, Vachova M, Brzezanski H, Hlinovsky D, Tenora D, Jura R, Jurák L, Novak J, Novak A, Topinka Z, Fibrich P, Sobolova H, Volny O, Krarup Christensen H, Drenck N, Klingenberg Iversen H, Simonsen CZ, Truelsen TC, Wienecke T, Vibo R, Gross-Paju K, Toomsoo T, Antsov K, Caparros F, Cordonnier C, Dan M, Faucheux J, Mechtouff L, Eker O, Lesaine E, Ondze B, Peres R, Pico F, Piotin M, Pop R, Rouanet F, Gubeladze T, Khinikadze M, Lobjanidze N, Tsiskaridze A, Nagel S, Ringleb PA, Rosenkranz M, Schmidt H, Sedghi A, Siepmann T, Szabo K, Thomalla G, Palaiodimou L, Sagris D, Kargiotis O, Klivenyi P, Szapary L, Tarkanyi G, Adami A, Bandini F, Calabresi P, Frisullo G, Renieri L, Sangalli D, Pirson A, Uyttenboogaart M, van den Wijngaard I, Kristoffersen ES, Brola W, Fudala M, Horoch-Lyszczarek E, Karlinski M, Kazmierski R, Kram P, Rogoziewicz M, Kaczorowski R, Luchowski P, Sienkiewicz-Jarosz H, Sobolewski P, Fryze W, Wisniewska A, Wiszniewska M, Ferreira P, Ferreira P, Fonseca L, Marto JP, Pinho E Melo T, Nunes AP, Rodrigues M, Tedim Cruz V, Falup-Pecurariu C, Krastev G, Mako M, de Leciñana MA, Arenillas JF, Ayo-Martin O, Cruz Culebras A, Tejedor ED, Montaner J, Pérez-Sánchez S, Tola Arribas MA, Rodriguez Vasquez A, Mayza M, Bernava G, Brehm A, Machi P, Fischer U, Gralla J, Michel PL, Psychogios M, Strambo D, Banerjee S, Krishnan K, Kwan J, Butt A, Catanese L, Demchuk AM, Field T, Haynes J, Hill MD, Khosravani H, Mackey A, Pikula A, Saposnik G, Scott CA, Shoamanesh A, Shuaib A, Yip S, Barboza MA, Barrientos JD, Portillo Rivera LI, Gongora-Rivera F, Novarro-Escudero N, Blanco A, Abraham M, Alsbrook D, Altschul D, Alvarado-Ortiz AJ, Bach I, Badruddin A, Barazangi N, Brereton C, Castonguay A, Chaturvedi S, Chaudry SA, Choe H, Choi JH, Dharmadhikari S, Desai K, Devlin TG, Doss VT, Edgell R, Etherton M, Farooqui M, Frei D, Gandhi D, Grigoryan M, Gupta R, Hassan AE, Helenius J, Kaliaev A, Kaushal R, Khandelwal P, Khawaja AM, Khoury NN, Kim BS, Kleindorfer DO, Koyfman F, Lee VH, Leung LY, Linares G, Linfante I, Lutsep HL, Macdougall L, Male S, Malik AM, Masoud H, McDermott M, Mehta BP, Min J, Mittal M, Morris JG, Multani SS, Nahab F, Nalleballe K, Nguyen CB, Novakovic-White R, Ortega-Gutierrez S, Rahangdale RH, Ramakrishnan P, Romero JR, Rost N, Rothstein A, Ruland S, Shah R, Sharma M, Silver B, Simmons M, Singh A, Starosciak AK, Strasser SL, Szeder V, Teleb M, Tsai JP, Voetsch B, Balaguera O, Pujol Lereis VA, Luraschi A, Almeida MS, Cardoso FB, Conforto A, De Deus Silva L, Varrone Giacomini L, Oliveira Lima F, Longo AL, Magalhães PSC, Martins RT, Mont'alverne F, Mora Cuervo DL, Costa Rebello L, Valler L, Zetola VF, Lavados PM, Navia V, Olavarría VV, Almeida Toro JM, Amaya PFR, Bayona H, Corredor A, Rivera Ordonez CE, Mantilla Barbosa DK, Lara O, Patiño MR, Diaz Escobar LF, Dejesus Melgarejo Fariña DE, Cardozo Villamayor A, Zelaya Zarza AJ, Barrientos Iman DM, Rodriguez Kadota L, Campbell B, Hankey GJ, Hair C, Kleinig T, Ma A, Tomazini Martins R, Sahathevan R, Thijs V, Salazar D, Yuan-Hao Wu T, Haussen DC, Liebeskind D, Yavagal DR, Jovin TG, Zaidat OO, Nguyen TN, SVIN COVID-19 Global Stroke Registry, SVIN COVID-19 Global Stroke Registry"
+  },
+  {
+    "pmid": "33765620",
+    "title": "Body mass index as a predictor of mortality in bronchiectasis: A nationwide population-based study",
+    "journal": "Respir Med",
+    "date": "2021-03",
+    "year": "2021",
+    "month": "03",
+    "doi": "10.1016/j.rmed.2021.106370",
+    "authors": "Lee JM, Lee SA, Han CH, Lee SM, Kim CJ, Lee SC, Park SC"
+  },
+  {
     "pmid": "33707519",
     "title": "Author Correction: Compatibility of endoclips in the gastrointestinal tract with magnetic resonance imaging",
     "journal": "Sci Rep",
@@ -1788,6 +1818,36 @@
     "month": "03",
     "doi": "10.1038/s41598-021-85467-0",
     "authors": "Shin DY, Park S, Kim A, Kim ES, Jeon HH"
+  },
+  {
+    "pmid": "33717569",
+    "title": "Association between Asthma and Internet Addiction Status in Korean Adolescents",
+    "journal": "J Thorac Dis",
+    "date": "2021-02",
+    "year": "2021",
+    "month": "02",
+    "doi": "10.21037/jtd-20-2342",
+    "authors": "Han CH, Chung JH, Lee SJ"
+  },
+  {
+    "pmid": "33708838",
+    "title": "Risk factors for severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infections: a nationwide population-based study",
+    "journal": "Ann Transl Med",
+    "date": "2021-02",
+    "year": "2021",
+    "month": "02",
+    "doi": "10.21037/atm-20-5958",
+    "authors": "Park SC, Won SY, Kim NH, Choi H, Youk TM, Lee HJ, Jeon HH"
+  },
+  {
+    "pmid": "33593755",
+    "title": "Modelling the impact of rapid diagnostic tests onmalaria in South Korea: a cost-benefit analysis",
+    "journal": "BMJ Glob Health",
+    "date": "2021-02",
+    "year": "2021",
+    "month": "02",
+    "doi": "10.1136/bmjgh-2020-004292",
+    "authors": "Kim JH, Suh J, Lee WJ, Choi H, Kim JD, Kim C, Choi JY, Ko R, Kim H, Lee J, Yeom JS"
   },
   {
     "pmid": "33580190",
@@ -1810,34 +1870,14 @@
     "authors": "Kang SC, Kim HW, Chang TI, Kang EW, Lim BJ, Park JT, Yoo TH, Jeong HJ, Kang SW, Han SH"
   },
   {
-    "pmid": "33593755",
-    "title": "Modelling the impact of rapid diagnostic tests onmalaria in South Korea: a cost-benefit analysis",
-    "journal": "BMJ Glob Health",
-    "date": "2021-02",
+    "pmid": "33764009",
+    "title": "Korean Multicenter Registry Study of EPIC Stents for the Treatment of Iliac Artery Disease: K-EPIC Registry",
+    "journal": "Korean Circ J",
+    "date": "2021-01",
     "year": "2021",
-    "month": "02",
-    "doi": "10.1136/bmjgh-2020-004292",
-    "authors": "Kim JH, Suh J, Lee WJ, Choi H, Kim JD, Kim C, Choi JY, Ko R, Kim H, Lee J, Yeom JS"
-  },
-  {
-    "pmid": "33708838",
-    "title": "Risk factors for severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infections: a nationwide population-based study",
-    "journal": "Ann Transl Med",
-    "date": "2021-02",
-    "year": "2021",
-    "month": "02",
-    "doi": "10.21037/atm-20-5958",
-    "authors": "Park SC, Won SY, Kim NH, Choi H, Youk TM, Lee HJ, Jeon HH"
-  },
-  {
-    "pmid": "33717569",
-    "title": "Association between Asthma and Internet Addiction Status in Korean Adolescents",
-    "journal": "J Thorac Dis",
-    "date": "2021-02",
-    "year": "2021",
-    "month": "02",
-    "doi": "10.21037/jtd-20-2342",
-    "authors": "Han CH, Chung JH, Lee SJ"
+    "month": "01",
+    "doi": "10.4070/kcj.2020.0420",
+    "authors": "Park JK"
   },
   {
     "pmid": "33514832",
@@ -1850,14 +1890,14 @@
     "authors": "Jung J, Lee H, Heo JY, Chang MH, Lee E, Park WS, Park JH, Eom HS"
   },
   {
-    "pmid": "33507960",
-    "title": "Longitudinal study of meningococcal carriage rates in university entrants living in a dormitory in South Korea",
-    "journal": "PLoS One",
+    "pmid": "33510351",
+    "title": "A nationwide population-based study of incidence and mortality of lung cancer in idiopathic pulmonary fibrosis",
+    "journal": "Sci Rep",
     "date": "2021-01",
     "year": "2021",
     "month": "01",
-    "doi": "10.1371/journal.pone.0244716",
-    "authors": "Choi H, Lee HM, Lee W, Kim JH, Seong H, Kim JH, Ahn JY, Jeong SJ, Ku NS, Yeom JS, Lee K, Kim HS, Oster P, Choi JY"
+    "doi": "10.1038/s41598-021-82182-8",
+    "authors": "Song MJ, Kim SY, Park MS, Kang MJ, Lee SH, Park SC"
   },
   {
     "pmid": "33510255",
@@ -1870,24 +1910,24 @@
     "authors": "Heo JY, Yoo SH, Suh KJ, Kim SH, Kim YJ, Ock CY, Kim M, Keam B, Kim TM, Kim DW, Heo DS, Lee JS"
   },
   {
-    "pmid": "33510351",
-    "title": "A nationwide population-based study of incidence and mortality of lung cancer in idiopathic pulmonary fibrosis",
-    "journal": "Sci Rep",
+    "pmid": "33507960",
+    "title": "Longitudinal study of meningococcal carriage rates in university entrants living in a dormitory in South Korea",
+    "journal": "PLoS One",
     "date": "2021-01",
     "year": "2021",
     "month": "01",
-    "doi": "10.1038/s41598-021-82182-8",
-    "authors": "Song MJ, Kim SY, Park MS, Kang MJ, Lee SH, Park SC"
+    "doi": "10.1371/journal.pone.0244716",
+    "authors": "Choi H, Lee HM, Lee W, Kim JH, Seong H, Kim JH, Ahn JY, Jeong SJ, Ku NS, Yeom JS, Lee K, Kim HS, Oster P, Choi JY"
   },
   {
-    "pmid": "33764009",
-    "title": "Korean Multicenter Registry Study of EPIC Stents for the Treatment of Iliac Artery Disease: K-EPIC Registry",
-    "journal": "Korean Circ J",
+    "pmid": "33477423",
+    "title": "Prevalence and Predictive Factors for Upfront Dose Reduction of the First Cycle of First-Line Chemotherapy in Older Adults with Metastatic Solid Cancer: Korean Cancer Study Group (KCSG) Multicenter Study",
+    "journal": "Cancers (Basel)",
     "date": "2021-01",
     "year": "2021",
     "month": "01",
-    "doi": "10.4070/kcj.2020.0420",
-    "authors": "Park JK"
+    "doi": "10.3390/cancers13020331",
+    "authors": "Hwang IG, Kwon M, Kim JW, Kim SH, Lee YG, Kim JY, Koh SJ, Ko YH, Shin SH, Hong S, Kim TY, Kim SY, Kim HJ, Kim HJ, Lee MA, Kwon JH, Hong YS, Lee KH, Bae SH, Koo DH, Kim JH, Woo IS"
   },
   {
     "pmid": "33468128",
@@ -1908,16 +1948,6 @@
     "month": "01",
     "doi": "10.1177/0961203320984845",
     "authors": "Chung MK, Park JS, Lim H, Lee CH, Lee J"
-  },
-  {
-    "pmid": "33477423",
-    "title": "Prevalence and Predictive Factors for Upfront Dose Reduction of the First Cycle of First-Line Chemotherapy in Older Adults with Metastatic Solid Cancer: Korean Cancer Study Group (KCSG) Multicenter Study",
-    "journal": "Cancers (Basel)",
-    "date": "2021-01",
-    "year": "2021",
-    "month": "01",
-    "doi": "10.3390/cancers13020331",
-    "authors": "Hwang IG, Kwon M, Kim JW, Kim SH, Lee YG, Kim JY, Koh SJ, Ko YH, Shin SH, Hong S, Kim TY, Kim SY, Kim HJ, Kim HJ, Lee MA, Kwon JH, Hong YS, Lee KH, Bae SH, Koo DH, Kim JH, Woo IS"
   },
   {
     "pmid": "33447888",
@@ -1950,6 +1980,16 @@
     "authors": "Chun SY, Kim DW, Lee SA, Lee SJ, Chang JH, Choi YJ, Kim SW, Song SO"
   },
   {
+    "pmid": "33355207",
+    "title": "Effects of BMI and LDL-cholesterol change pattern on cardiovascular disease in normal adults and diabetics",
+    "journal": "BMJ Open Diabetes Res Care",
+    "date": "2020-12",
+    "year": "2020",
+    "month": "12",
+    "doi": "10.1136/bmjdrc-2020-001340",
+    "authors": "Youk TM, Kang MJ, Song SO, Park EC"
+  },
+  {
     "pmid": "33311519",
     "title": "Impact of comorbid asthma on severity of coronavirus disease (COVID-19)",
     "journal": "Sci Rep",
@@ -1978,16 +2018,6 @@
     "month": "12",
     "doi": "10.1002/oby.23035",
     "authors": "Song SO, Han SJ, Kahn SE, Leonetti DL, Fujimoto WY, Boyko EJ"
-  },
-  {
-    "pmid": "33355207",
-    "title": "Effects of BMI and LDL-cholesterol change pattern on cardiovascular disease in normal adults and diabetics",
-    "journal": "BMJ Open Diabetes Res Care",
-    "date": "2020-12",
-    "year": "2020",
-    "month": "12",
-    "doi": "10.1136/bmjdrc-2020-001340",
-    "authors": "Youk TM, Kang MJ, Song SO, Park EC"
   },
   {
     "pmid": "33105165",
@@ -2120,16 +2150,6 @@
     "authors": "Nam JS, Kim MK, Nam JY, Park K, Kang S, Ahn CW, Park JS"
   },
   {
-    "pmid": "32615711",
-    "title": "Diagnosis and Treatment of Growth Hormone Deficiency: A Position Statement from Korean Endocrine Society and Korean Society of Pediatric Endocrinology",
-    "journal": "Endocrinol Metab (Seoul)",
-    "date": "2020-06",
-    "year": "2020",
-    "month": "06",
-    "doi": "10.3803/EnM.2020.35.2.272",
-    "authors": "Kim JH, Chae HW, Chin SO, Ku CR, Park KH, Lim DJ, Kim KJ, Lim JS, Kim G, Choi YM, Ahn SH, Jeon MJ, Hwangbo Y, Lee JH, Kim BK, Choi YJ, Lee KA, Moon SS, Ahn HY, Choi HS, Hong SM, Shin DY, Seo JA, Kim SH, Oh S, Yu SH, Kim BJ, Shin CH, Kim SW, Kim CH, Lee EJ"
-  },
-  {
     "pmid": "32615721",
     "title": "Achievement of LDL-C Targets Defined by ESC/EAS (2011) Guidelines in Risk-Stratified Korean Patients with Dyslipidemia Receiving Lipid-Modifying Treatments",
     "journal": "Endocrinol Metab (Seoul)",
@@ -2140,14 +2160,14 @@
     "authors": "Yang YS, Lee SY, Kim JS, Choi KM, Lee KW, Lee SC, Cho JR, Oh SJ, Kim JH, Choi SH"
   },
   {
-    "pmid": "32340989",
-    "title": "Impact of-Positive Enterococcus faecium Exhibiting Diverse Susceptibility Phenotypes to Glycopeptides on 30-Day Mortality of Patients with a Bloodstream Infection",
-    "journal": "Antimicrob Agents Chemother",
+    "pmid": "32615711",
+    "title": "Diagnosis and Treatment of Growth Hormone Deficiency: A Position Statement from Korean Endocrine Society and Korean Society of Pediatric Endocrinology",
+    "journal": "Endocrinol Metab (Seoul)",
     "date": "2020-06",
     "year": "2020",
     "month": "06",
-    "doi": "10.1128/AAC.02180-19",
-    "authors": "Kim D, Yoon EJ, Hong JS, Lee H, Shin KS, Shin JH, Kim YR, Kim HS, Kim YA, Uh Y, Shin JH, Park YS, Jeong SH"
+    "doi": "10.3803/EnM.2020.35.2.272",
+    "authors": "Kim JH, Chae HW, Chin SO, Ku CR, Park KH, Lim DJ, Kim KJ, Lim JS, Kim G, Choi YM, Ahn SH, Jeon MJ, Hwangbo Y, Lee JH, Kim BK, Choi YJ, Lee KA, Moon SS, Ahn HY, Choi HS, Hong SM, Shin DY, Seo JA, Kim SH, Oh S, Yu SH, Kim BJ, Shin CH, Kim SW, Kim CH, Lee EJ"
   },
   {
     "pmid": "32483216",
@@ -2160,6 +2180,16 @@
     "authors": "Kim S, Park BK, Seo JH, Choi J, Choi JW, Lee CK, Chung JB, Park Y, Kim DW"
   },
   {
+    "pmid": "32340989",
+    "title": "Impact of-Positive Enterococcus faecium Exhibiting Diverse Susceptibility Phenotypes to Glycopeptides on 30-Day Mortality of Patients with a Bloodstream Infection",
+    "journal": "Antimicrob Agents Chemother",
+    "date": "2020-06",
+    "year": "2020",
+    "month": "06",
+    "doi": "10.1128/AAC.02180-19",
+    "authors": "Kim D, Yoon EJ, Hong JS, Lee H, Shin KS, Shin JH, Kim YR, Kim HS, Kim YA, Uh Y, Shin JH, Park YS, Jeong SH"
+  },
+  {
     "pmid": "32506894",
     "title": "Multidisciplinary and Multisociety Practice Guideline on Reprocessing Flexible Gastrointestinal Endoscopes and Endoscopic Accessories",
     "journal": "Clin Endosc",
@@ -2168,16 +2198,6 @@
     "month": "05",
     "doi": "10.5946/ce.2020.106",
     "authors": "Cheung DY, Jang BI, Kim SW, Kim JH, Kim HK, Shin JE, Yoon WJ, Lee YK, Chung KH, Cho SJ, Shin HP, Cho SY, Shin WG, Choi KD, Kim BW, Kwon JG, Yang HC, Gweon TG, Kim HG, Ahn DW, Cho KB, Kim SH, Hwang KH, Im HH"
-  },
-  {
-    "pmid": "31858760",
-    "title": "Evaluation of Xpert Carba-R Assay v.2 to Detect Carbapenemase Genes in Two Hospitals in Korea",
-    "journal": "Ann Lab Med",
-    "date": "2020-05",
-    "year": "2020",
-    "month": "05",
-    "doi": "10.3343/alm.2020.40.3.209",
-    "authors": "Byun JH, Kim YA, Kim M, Kim B, Choi JY, Park YS, Yong D"
   },
   {
     "pmid": "32398198",
@@ -2190,14 +2210,24 @@
     "authors": "Park SC, Kang MJ, Han CH, Lee SM, Kim CJ, Lee JM, Kang YA"
   },
   {
-    "pmid": "32340088",
-    "title": "Risk for metabolic syndrome in the population with visceral fat area measured by bioelectrical impedance analysis",
-    "journal": "Korean J Intern Med",
+    "pmid": "31858760",
+    "title": "Evaluation of Xpert Carba-R Assay v.2 to Detect Carbapenemase Genes in Two Hospitals in Korea",
+    "journal": "Ann Lab Med",
+    "date": "2020-05",
+    "year": "2020",
+    "month": "05",
+    "doi": "10.3343/alm.2020.40.3.209",
+    "authors": "Byun JH, Kim YA, Kim M, Kim B, Choi JY, Park YS, Yong D"
+  },
+  {
+    "pmid": "32402681",
+    "title": "A Randomized Phase II Study of Perioperative Chemotherapy Plus Bevacizumab Versus Postoperative Chemotherapy Plus Bevacizumab in Patients With Upfront Resectable Hepatic Colorectal Metastases",
+    "journal": "Clin Colorectal Cancer",
     "date": "2020-04",
     "year": "2020",
     "month": "04",
-    "doi": "10.3904/kjim.2018.427",
-    "authors": "Jeon HH, Lee YK, Kim DH, Pak H, Shin SY, Seo JH"
+    "doi": "10.1016/j.clcc.2020.03.004",
+    "authors": "Chun YJ, Kim SG, Lee KW, Cho SH, Kim TW, Baek JY, Park YS, Hong S, Chu CW, Beom SH, Jung M, Shin SJ, Ahn JB"
   },
   {
     "pmid": "32357431",
@@ -2210,14 +2240,14 @@
     "authors": "Han CH, Chung J"
   },
   {
-    "pmid": "32402681",
-    "title": "A Randomized Phase II Study of Perioperative Chemotherapy Plus Bevacizumab Versus Postoperative Chemotherapy Plus Bevacizumab in Patients With Upfront Resectable Hepatic Colorectal Metastases",
-    "journal": "Clin Colorectal Cancer",
+    "pmid": "32340088",
+    "title": "Risk for metabolic syndrome in the population with visceral fat area measured by bioelectrical impedance analysis",
+    "journal": "Korean J Intern Med",
     "date": "2020-04",
     "year": "2020",
     "month": "04",
-    "doi": "10.1016/j.clcc.2020.03.004",
-    "authors": "Chun YJ, Kim SG, Lee KW, Cho SH, Kim TW, Baek JY, Park YS, Hong S, Chu CW, Beom SH, Jung M, Shin SJ, Ahn JB"
+    "doi": "10.3904/kjim.2018.427",
+    "authors": "Jeon HH, Lee YK, Kim DH, Pak H, Shin SY, Seo JH"
   },
   {
     "pmid": "31903478",
