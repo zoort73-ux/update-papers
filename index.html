@@ -1,0 +1,661 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Kidney Research Institute Publications</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,400;8..60,500;8..60,600;8..60,700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap');
+
+  :root {
+    --bg: #f6f4ef;
+    --surface: #ffffff;
+    --surface-2: #f0eee6;
+    --ink: #1b201d;
+    --ink-muted: #5b6560;
+    --ink-faint: #8c948e;
+    --border: #e1ddd0;
+    --accent: #1f6f64;
+    --accent-ink: #0e3f38;
+    --accent-soft: #e4efeb;
+    --accent-soft-border: #c6dfd8;
+    --focus: #1f6f64;
+    --shadow: 0 1px 2px rgba(27,32,29,0.04), 0 8px 24px rgba(27,32,29,0.05);
+  }
+
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --bg: #101615;
+      --surface: #161d1c;
+      --surface-2: #1c2422;
+      --ink: #edf1ee;
+      --ink-muted: #9aaba4;
+      --ink-faint: #6c7a75;
+      --border: #283330;
+      --accent: #4fc0b1;
+      --accent-ink: #bdeee5;
+      --accent-soft: #17302c;
+      --accent-soft-border: #234943;
+      --focus: #4fc0b1;
+      --shadow: 0 1px 2px rgba(0,0,0,0.3), 0 8px 28px rgba(0,0,0,0.35);
+    }
+  }
+  :root[data-theme="dark"] {
+    --bg: #101615;
+    --surface: #161d1c;
+    --surface-2: #1c2422;
+    --ink: #edf1ee;
+    --ink-muted: #9aaba4;
+    --ink-faint: #6c7a75;
+    --border: #283330;
+    --accent: #4fc0b1;
+    --accent-ink: #bdeee5;
+    --accent-soft: #17302c;
+    --accent-soft-border: #234943;
+    --focus: #4fc0b1;
+    --shadow: 0 1px 2px rgba(0,0,0,0.3), 0 8px 28px rgba(0,0,0,0.35);
+  }
+
+  * { box-sizing: border-box; }
+  html { color-scheme: light dark; }
+
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--ink);
+    font-family: 'IBM Plex Sans', -apple-system, 'Segoe UI', sans-serif;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  a { color: inherit; }
+
+  ::selection { background: var(--accent-soft-border); }
+
+  .skip { position: absolute; left: -9999px; }
+  .skip:focus { left: 1rem; top: 1rem; z-index: 100; background: var(--surface); padding: .5rem 1rem; border-radius: .4rem; }
+
+  a:focus-visible, button:focus-visible, input:focus-visible {
+    outline: 2px solid var(--focus);
+    outline-offset: 2px;
+  }
+
+  /* ---------- Header ---------- */
+  header.masthead {
+    border-bottom: 1px solid var(--border);
+    background: var(--surface);
+  }
+  .masthead-inner {
+    max-width: 1180px;
+    margin: 0 auto;
+    padding: 2.4rem 1.75rem 1.75rem;
+  }
+  .eyebrow {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: .72rem;
+    letter-spacing: .09em;
+    text-transform: uppercase;
+    color: var(--accent-ink);
+    background: var(--accent-soft);
+    border: 1px solid var(--accent-soft-border);
+    display: inline-block;
+    padding: .3rem .6rem;
+    border-radius: .35rem;
+    margin-bottom: 1rem;
+  }
+  h1 {
+    font-family: 'Source Serif 4', Georgia, serif;
+    font-weight: 600;
+    font-size: clamp(1.7rem, 3vw, 2.35rem);
+    line-height: 1.15;
+    margin: 0 0 .5rem;
+    text-wrap: balance;
+  }
+  .subhead {
+    color: var(--ink-muted);
+    font-size: .98rem;
+    max-width: 62ch;
+    line-height: 1.55;
+    margin: 0 0 1.5rem;
+  }
+  .stats-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: .6rem;
+  }
+  .stat {
+    background: var(--surface-2);
+    border: 1px solid var(--border);
+    border-radius: .5rem;
+    padding: .55rem .9rem;
+    display: flex;
+    align-items: baseline;
+    gap: .4rem;
+    font-size: .84rem;
+  }
+  .stat b {
+    font-family: 'IBM Plex Mono', monospace;
+    font-variant-numeric: tabular-nums;
+    font-size: .95rem;
+    color: var(--ink);
+  }
+  .stat span { color: var(--ink-muted); }
+
+  .refresh-link {
+    display: inline-flex;
+    align-items: center;
+    gap: .4rem;
+    font-size: .84rem;
+    color: var(--ink-muted);
+    text-decoration: none;
+    border: 1px solid var(--border);
+    background: var(--surface-2);
+    border-radius: .5rem;
+    padding: .55rem .9rem;
+  }
+  .refresh-link:hover { color: var(--accent-ink); border-color: var(--accent-soft-border); }
+  .refresh-link svg { width: 14px; height: 14px; }
+
+  /* ---------- Tabs ---------- */
+  .tabs {
+    display: flex;
+    gap: .4rem;
+    margin-top: 1.4rem;
+    border-bottom: 1px solid var(--border);
+  }
+  .tab-btn {
+    font: inherit;
+    font-size: .9rem;
+    font-weight: 500;
+    color: var(--ink-muted);
+    background: none;
+    border: none;
+    border-bottom: 2px solid transparent;
+    padding: .6rem .2rem;
+    margin-bottom: -1px;
+    cursor: pointer;
+  }
+  .tab-btn:hover { color: var(--ink); }
+  .tab-btn.active { color: var(--accent-ink); border-bottom-color: var(--accent); }
+  .tab-btn .tab-count {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: .78rem;
+    color: var(--ink-faint);
+    margin-left: .35rem;
+  }
+  .tab-btn.active .tab-count { color: var(--accent-ink); }
+
+  /* ---------- Layout ---------- */
+  .layout {
+    max-width: 1180px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 220px minmax(0,1fr);
+    gap: 2.5rem;
+    padding: 2rem 1.75rem 4rem;
+  }
+  @media (max-width: 860px) {
+    .layout { grid-template-columns: 1fr; }
+  }
+
+  nav.toc {
+    position: sticky;
+    top: 1.25rem;
+    align-self: start;
+    max-height: calc(100vh - 2.5rem);
+    overflow-y: auto;
+  }
+  @media (max-width: 860px) {
+    nav.toc { position: static; max-height: none; }
+  }
+  .toc-title {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: .72rem;
+    letter-spacing: .08em;
+    text-transform: uppercase;
+    color: var(--ink-faint);
+    margin: 0 0 .7rem;
+  }
+  .toc ul { list-style: none; margin: 0; padding: 0; }
+  .toc a {
+    display: flex;
+    justify-content: space-between;
+    gap: .5rem;
+    text-decoration: none;
+    padding: .38rem .1rem;
+    font-size: .93rem;
+    color: var(--ink-muted);
+    border-left: 2px solid transparent;
+    padding-left: .7rem;
+    transition: color .12s ease, border-color .12s ease;
+  }
+  .toc a:hover { color: var(--ink); }
+  .toc a.active { color: var(--accent-ink); border-left-color: var(--accent); font-weight: 500; }
+  .toc a .count {
+    font-family: 'IBM Plex Mono', monospace;
+    font-variant-numeric: tabular-nums;
+    color: var(--ink-faint);
+    font-size: .82rem;
+  }
+
+  main { min-width: 0; }
+
+  /* ---------- Controls ---------- */
+  .controls {
+    position: sticky;
+    top: 0;
+    z-index: 10;
+    background: var(--bg);
+    padding: 1rem 0 1rem;
+    margin-bottom: .5rem;
+    display: flex;
+    gap: .6rem;
+    flex-wrap: wrap;
+    align-items: center;
+  }
+  .search-wrap {
+    position: relative;
+    flex: 1 1 260px;
+    min-width: 200px;
+  }
+  .search-wrap input {
+    width: 100%;
+    font: inherit;
+    font-size: .95rem;
+    padding: .62rem .9rem .62rem 2.2rem;
+    border-radius: .55rem;
+    border: 1px solid var(--border);
+    background: var(--surface);
+    color: var(--ink);
+  }
+  .search-wrap svg {
+    position: absolute;
+    left: .7rem;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 15px; height: 15px;
+    color: var(--ink-faint);
+  }
+  select#sort {
+    font: inherit;
+    font-size: .88rem;
+    padding: .6rem .8rem;
+    border-radius: .55rem;
+    border: 1px solid var(--border);
+    background: var(--surface);
+    color: var(--ink);
+  }
+  .result-count {
+    font-size: .82rem;
+    color: var(--ink-faint);
+    font-family: 'IBM Plex Mono', monospace;
+    white-space: nowrap;
+  }
+
+  /* ---------- Year / month groups ---------- */
+  .year-block { margin-top: 2.4rem; scroll-margin-top: 5.5rem; }
+  .year-heading {
+    display: flex;
+    align-items: baseline;
+    gap: .7rem;
+    margin: 0 0 1.1rem;
+    padding-bottom: .5rem;
+    border-bottom: 1px solid var(--border);
+  }
+  .year-heading h2 {
+    font-family: 'Source Serif 4', serif;
+    font-size: 1.5rem;
+    font-weight: 600;
+    margin: 0;
+  }
+  .year-heading .n {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: .8rem;
+    color: var(--ink-faint);
+  }
+
+  .month-block { margin-bottom: 1.6rem; scroll-margin-top: 5.5rem; }
+  .month-heading {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: .74rem;
+    letter-spacing: .07em;
+    text-transform: uppercase;
+    color: var(--ink-faint);
+    margin: 0 0 .6rem;
+  }
+
+  .pub-list { display: flex; flex-direction: column; gap: .55rem; }
+
+  .pub {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: .6rem;
+    padding: .95rem 1.1rem;
+    box-shadow: var(--shadow);
+  }
+  .pub-title {
+    font-family: 'Source Serif 4', serif;
+    font-size: 1.02rem;
+    font-weight: 600;
+    line-height: 1.4;
+    margin: 0 0 .4rem;
+  }
+  .pub-title a { text-decoration: none; }
+  .pub-title a:hover { color: var(--accent-ink); text-decoration: underline; text-decoration-color: var(--accent-soft-border); }
+  .pub-meta {
+    display: flex;
+    flex-wrap: wrap;
+    gap: .45rem .6rem;
+    align-items: center;
+    font-size: .8rem;
+    color: var(--ink-muted);
+    margin-bottom: .4rem;
+  }
+  .pub-meta .journal {
+    font-weight: 500;
+    color: var(--accent-ink);
+    background: var(--accent-soft);
+    border: 1px solid var(--accent-soft-border);
+    padding: .1rem .5rem;
+    border-radius: .3rem;
+  }
+  .pub-meta .date {
+    font-family: 'IBM Plex Mono', monospace;
+    font-variant-numeric: tabular-nums;
+  }
+  .pub-meta .dot { color: var(--ink-faint); }
+  .pub-meta a.doi {
+    color: var(--ink-muted);
+    text-decoration: none;
+    border-bottom: 1px dotted var(--ink-faint);
+  }
+  .pub-meta a.doi:hover { color: var(--accent-ink); border-color: var(--accent-ink); }
+  .pub-authors {
+    font-size: .84rem;
+    color: var(--ink-muted);
+    line-height: 1.5;
+  }
+
+  .empty-state {
+    padding: 3rem 1rem;
+    text-align: center;
+    color: var(--ink-faint);
+    font-size: .95rem;
+  }
+
+  footer {
+    max-width: 1180px;
+    margin: 0 auto;
+    padding: 0 1.75rem 3rem;
+    color: var(--ink-faint);
+    font-size: .8rem;
+    line-height: 1.7;
+    border-top: 1px solid var(--border);
+    padding-top: 1.5rem;
+  }
+  footer a { color: var(--ink-muted); }
+
+  [hidden] { display: none !important; }
+</style>
+</head>
+<body>
+
+<a class="skip" href="#main">본문으로 건너뛰기</a>
+
+<header class="masthead">
+  <div class="masthead-inner">
+    <span class="eyebrow" id="eyebrow">Institute of Kidney Disease Research · Yonsei University</span>
+    <h1 id="page-title">Yonsei University 논문 아카이브</h1>
+    <p class="subhead" id="page-subhead">불러오는 중…</p>
+    <div class="stats-row">
+      <div class="stat"><b id="stat-total">–</b><span>편</span></div>
+      <div class="stat"><b id="stat-range">–</b><span>기간</span></div>
+      <div class="stat"><b id="stat-updated">–</b><span>마지막 갱신</span></div>
+      <a class="refresh-link" id="refresh-link" href="#" target="_blank" rel="noopener">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M23 4v6h-6"/><path d="M1 20v-6h6"/><path d="M3.51 9a9 9 0 0 1 14.85-3.36L23 10M1 14l4.64 4.36A9 9 0 0 0 20.49 15"/></svg>
+        수동 갱신 (GitHub Actions)
+      </a>
+    </div>
+    <div class="tabs" id="tabs" role="tablist"></div>
+  </div>
+</header>
+
+<div class="layout">
+  <nav class="toc" aria-label="연도 목차">
+    <p class="toc-title">Jump to year</p>
+    <ul id="toc-list"></ul>
+  </nav>
+
+  <main id="main">
+    <div class="controls">
+      <div class="search-wrap">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+        <input id="search" type="search" placeholder="제목, 저자, 저널명 검색…" aria-label="검색" />
+      </div>
+      <select id="sort" aria-label="정렬">
+        <option value="desc">최신순</option>
+        <option value="asc">오래된순</option>
+      </select>
+      <span class="result-count" id="result-count"></span>
+    </div>
+
+    <div id="results"></div>
+    <div id="empty" class="empty-state" hidden>불러오는 중…</div>
+  </main>
+</div>
+
+<footer>
+  <p id="footer-note">출처: PubMed (NCBI E-utilities), 검색식 <code>"Institute of Kidney Disease Research"[Affiliation] AND Yonsei[Affiliation]</code>, 2020년 1월 ~ 현재. 개별 문헌은 PMID/DOI 링크를 통해 PubMed 원문으로 연결됩니다. 이 페이지는 매달 자동으로 재검색되어 신규 게재 논문을 반영하며, 저장소의 Actions 탭에서 "Run workflow" 버튼으로 언제든 수동 갱신할 수 있습니다.</p>
+</footer>
+
+<script>
+  const DATASETS = {
+    yonsei: {
+      label: "Yonsei · Institute of Kidney Disease Research",
+      eyebrow: "Institute of Kidney Disease Research · Yonsei University",
+      title: "Yonsei University 논문 아카이브",
+      subhead: "Institute of Kidney Disease Research, Department of Internal Medicine, College of Medicine, Yonsei University 소속 저자가 포함된 PubMed 등재 논문을 연도·월별로 정리했습니다. 매달 자동으로 신규 논문을 반영합니다.",
+      queryHtml: '<code>"Institute of Kidney Disease Research"[Affiliation] AND Yonsei[Affiliation]</code>',
+      file: "data/yonsei.json",
+      records: []
+    },
+    ilsan: {
+      label: "NHIS Ilsan Hospital · Internal Medicine",
+      eyebrow: "Department of Internal Medicine · NHIS Ilsan Hospital",
+      title: "Ilsan Hospital 내과 논문 아카이브",
+      subhead: "Department of Internal Medicine, National Health Insurance Service Ilsan Hospital, Goyang, Republic of Korea 소속 저자가 포함된 PubMed 등재 논문을 연도·월별로 정리했습니다. 매달 자동으로 신규 논문을 반영합니다.",
+      queryHtml: '<code>"National Health Insurance Service Ilsan Hospital"[Affiliation] AND "Internal Medicine"[Affiliation]</code>, 저자 소속에 두 문구가 함께 표기된 논문만 포함',
+      file: "data/ilsan.json",
+      records: []
+    }
+  };
+
+  let activeTab = "yonsei";
+  let RECORDS = [];
+  let LAST_UPDATED = "–";
+
+  const monthNamesKr = {"01":"1월","02":"2월","03":"3월","04":"4월","05":"5월","06":"6월","07":"7월","08":"8월","09":"9월","10":"10월","11":"11월","12":"12월"};
+
+  function escapeHtml(s) {
+    return (s || "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+  }
+
+  function render(list, order) {
+    const resultsEl = document.getElementById('results');
+    const emptyEl = document.getElementById('empty');
+    const tocEl = document.getElementById('toc-list');
+    document.getElementById('result-count').textContent = list.length + '건';
+
+    if (list.length === 0) {
+      resultsEl.innerHTML = '';
+      tocEl.innerHTML = '';
+      emptyEl.textContent = '검색 결과가 없습니다.';
+      emptyEl.hidden = false;
+      return;
+    }
+    emptyEl.hidden = true;
+
+    const sorted = [...list].sort((a,b) => {
+      const ka = a.year + a.month, kb = b.year + b.month;
+      return order === 'asc' ? ka.localeCompare(kb) : kb.localeCompare(ka);
+    });
+
+    const byYear = new Map();
+    for (const r of sorted) {
+      if (!byYear.has(r.year)) byYear.set(r.year, new Map());
+      const byMonth = byYear.get(r.year);
+      if (!byMonth.has(r.month)) byMonth.set(r.month, []);
+      byMonth.get(r.month).push(r);
+    }
+
+    let html = '';
+    let toc = '';
+    for (const [year, byMonth] of byYear) {
+      const yearCount = [...byMonth.values()].reduce((s,a)=>s+a.length,0);
+      toc += `<li><a href="#y-${year}" data-year="${year}"><span>${year}</span><span class="count">${yearCount}</span></a></li>`;
+      html += `<section class="year-block" id="y-${year}">
+        <div class="year-heading"><h2>${year}</h2><span class="n">${yearCount}건</span></div>`;
+
+      const monthKeys = [...byMonth.keys()].sort((a,b)=> order==='asc' ? a.localeCompare(b) : b.localeCompare(a));
+      for (const month of monthKeys) {
+        const items = byMonth.get(month);
+        html += `<div class="month-block" id="y-${year}-m-${month}">
+          <p class="month-heading">${monthNamesKr[month] || month}</p>
+          <div class="pub-list">`;
+        for (const r of items) {
+          const doiUrl = r.doi ? `https://doi.org/${r.doi}` : '';
+          html += `<article class="pub">
+            <h3 class="pub-title"><a href="https://pubmed.ncbi.nlm.nih.gov/${r.pmid}/" target="_blank" rel="noopener">${escapeHtml(r.title)}</a></h3>
+            <div class="pub-meta">
+              <span class="journal">${escapeHtml(r.journal)}</span>
+              <span class="dot">·</span>
+              <span class="date">${r.date}</span>
+              <span class="dot">·</span>
+              <a class="doi" href="https://pubmed.ncbi.nlm.nih.gov/${r.pmid}/" target="_blank" rel="noopener">PMID ${r.pmid}</a>
+              ${doiUrl ? `<span class="dot">·</span><a class="doi" href="${doiUrl}" target="_blank" rel="noopener">DOI</a>` : ''}
+            </div>
+            <p class="pub-authors">${escapeHtml(r.authors)}</p>
+          </article>`;
+        }
+        html += `</div></div>`;
+      }
+      html += `</section>`;
+    }
+    resultsEl.innerHTML = html;
+    tocEl.innerHTML = toc;
+
+    setupScrollSpy();
+  }
+
+  function setupScrollSpy() {
+    const links = [...document.querySelectorAll('.toc a')];
+    const sections = links.map(l => document.getElementById(l.getAttribute('href').slice(1))).filter(Boolean);
+    if (!sections.length) return;
+    const io = new IntersectionObserver((entries) => {
+      entries.forEach(e => {
+        const link = document.querySelector(`.toc a[href="#${e.target.id}"]`);
+        if (!link) return;
+        if (e.isIntersecting) {
+          links.forEach(l => l.classList.remove('active'));
+          link.classList.add('active');
+        }
+      });
+    }, { rootMargin: '-10% 0px -75% 0px' });
+    sections.forEach(s => io.observe(s));
+  }
+
+  function applyFilter() {
+    const q = document.getElementById('search').value.trim().toLowerCase();
+    const order = document.getElementById('sort').value;
+    const filtered = !q ? RECORDS : RECORDS.filter(r =>
+      r.title.toLowerCase().includes(q) ||
+      r.authors.toLowerCase().includes(q) ||
+      r.journal.toLowerCase().includes(q)
+    );
+    render(filtered, order);
+  }
+
+  document.getElementById('search').addEventListener('input', applyFilter);
+  document.getElementById('sort').addEventListener('change', applyFilter);
+
+  function renderStats() {
+    document.getElementById('stat-total').textContent = RECORDS.length;
+    if (RECORDS.length) {
+      const minY = RECORDS.reduce((m,r)=> (r.year+r.month) < (m.year+m.month) ? r : m, RECORDS[0]);
+      const maxY = RECORDS.reduce((m,r)=> (r.year+r.month) > (m.year+m.month) ? r : m, RECORDS[0]);
+      document.getElementById('stat-range').textContent = `${minY.year}.${minY.month} – ${maxY.year}.${maxY.month}`;
+    } else {
+      document.getElementById('stat-range').textContent = '–';
+    }
+    document.getElementById('stat-updated').textContent = LAST_UPDATED;
+  }
+
+  function buildTabs() {
+    const tabsEl = document.getElementById('tabs');
+    tabsEl.innerHTML = Object.keys(DATASETS).map(key => {
+      const d = DATASETS[key];
+      return `<button class="tab-btn${key===activeTab?' active':''}" data-tab="${key}" role="tab" aria-selected="${key===activeTab}">${d.label}<span class="tab-count">${d.records.length}</span></button>`;
+    }).join('');
+    tabsEl.querySelectorAll('.tab-btn').forEach(btn => {
+      btn.addEventListener('click', () => switchTab(btn.dataset.tab));
+    });
+  }
+
+  function switchTab(key) {
+    activeTab = key;
+    const d = DATASETS[key];
+    RECORDS = d.records;
+    document.getElementById('eyebrow').textContent = d.eyebrow;
+    document.getElementById('page-title').textContent = d.title;
+    document.getElementById('page-subhead').textContent = d.subhead;
+    document.getElementById('footer-note').innerHTML = `출처: PubMed (NCBI E-utilities), 검색식 ${d.queryHtml}, 2020년 1월 ~ 현재. 개별 문헌은 PMID/DOI 링크를 통해 PubMed 원문으로 연결됩니다. 이 페이지는 매달 자동으로 재검색되어 신규 게재 논문을 반영하며, 저장소의 Actions 탭에서 "Run workflow" 버튼으로 언제든 수동 갱신할 수 있습니다.`;
+    document.getElementById('search').value = '';
+    buildTabs();
+    renderStats();
+    applyFilter();
+    window.scrollTo({ top: 0, behavior: 'instant' in window ? 'instant' : 'auto' });
+  }
+
+  function setupRefreshLink() {
+    // Derive "owner/repo" from a GitHub Pages project-page URL (https://<owner>.github.io/<repo>/...).
+    const link = document.getElementById('refresh-link');
+    try {
+      const host = location.hostname; // e.g. "someuser.github.io"
+      const owner = host.endsWith('.github.io') ? host.split('.github.io')[0] : null;
+      const seg = location.pathname.split('/').filter(Boolean)[0]; // repo name
+      if (owner && seg) {
+        link.href = `https://github.com/${owner}/${seg}/actions`;
+      } else {
+        link.href = 'https://github.com'; // fallback; edit the repo link manually if needed
+      }
+    } catch (e) {
+      link.href = 'https://github.com';
+    }
+  }
+
+  async function loadData() {
+    try {
+      const [yonsei, ilsan, meta] = await Promise.all([
+        fetch('data/yonsei.json', {cache: 'no-store'}).then(r => r.json()),
+        fetch('data/ilsan.json', {cache: 'no-store'}).then(r => r.json()),
+        fetch('data/meta.json', {cache: 'no-store'}).then(r => r.json())
+      ]);
+      DATASETS.yonsei.records = yonsei;
+      DATASETS.ilsan.records = ilsan;
+      LAST_UPDATED = meta.last_updated || '–';
+    } catch (e) {
+      document.getElementById('page-subhead').textContent = '데이터를 불러오지 못했습니다. data/*.json 파일 경로를 확인해주세요.';
+      console.error(e);
+      return;
+    }
+    RECORDS = DATASETS[activeTab].records;
+    document.getElementById('page-subhead').textContent = DATASETS[activeTab].subhead;
+    buildTabs();
+    renderStats();
+    applyFilter();
+  }
+
+  setupRefreshLink();
+  loadData();
+</script>
+</body>
+</html>
